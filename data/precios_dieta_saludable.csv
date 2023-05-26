@@ -1,0 +1,174 @@
+pais,codigo,annio,costo_dieta_saludable_2017_usd_dia,continente
+Albania,ALB,2017,4.281675858,Europa
+Algeria,DZA,2017,4.01711778,África
+Angola,AGO,2017,4.582558116,África
+Anguilla,AIA,2017,4.508903222,América del Norte
+Antigua y Barbuda,ATG,2017,4.458330811,América del Norte
+Argentina,ARG,2017,3.4968817,América del Sur
+Armenia,ARM,2017,3.561060854,Asia
+Aruba,ABW,2017,3.964441841,América del Norte
+Australia,AUS,2017,2.270715631,Oceanía
+Austria,AUT,2017,2.905280516,Europa
+Azerbaijan,AZE,2017,2.805918933,Asia
+Bahamas,BHS,2017,4.290752694,América del Norte
+Bahrain,BHR,2017,4.55379047,Asia
+Bangladesh,BGD,2017,3.441523122,Asia
+Barbados,BRB,2017,5.891262376,América del Norte
+Bielorrusia,BLR,2017,4.061629992,Europa
+Bélgica,BEL,2017,2.876678049,Europa
+Belize,BLZ,2017,2.913016384,América del Norte
+Benín,BEN,2017,3.523153305,África
+Bermudas,BMU,2017,3.733898606,América del Norte
+Bhutan,BTN,2017,4.779471981,Asia
+Bolivia,BOL,2017,3.758738978,América del Sur
+Bosnia y Herzegovina,BIH,2017,4.284558679,Europa
+Botswana,BWA,2017,3.958068766,África
+Brasil,BRA,2017,2.807738164,América del Sur
+Islas Vírgenes Británicas,VGB,2017,3.962111215,América del Norte
+Brunei,BRN,2017,4.98501209,Asia
+Bulgaria,BGR,2017,4.167510318,Europa
+Burkina Faso,BFA,2017,3.542036729,África
+Burundi,BDI,2017,3.439233172,África
+Camboya,KHM,2017,4.518698266,Asia
+Camerún,CMR,2017,3.601684469,África
+Canadá,CAN,2017,2.976252719,América del Norte
+Cabo Verde,CPV,2017,3.364083781,África
+Islas Caimán,CYM,2017,3.187522751,América del Norte
+República Centroafricana,CAF,2017,3.267034795,África
+Chad,TCD,2017,3.216645812,África
+Chile,CHL,2017,3.075040316,América del Sur
+China,CHN,2017,3.608958352,Asia
+Colombia,COL,2017,3.266096458,América del Sur
+Comoras,COM,2017,3.357260846,África
+Congo,COG,2017,3.876845836,África
+Costa Rica,CRI,2017,3.879117852,América del Norte
+Costa de Marfil,CIV,2017,2.889052155,África
+Croacia,HRV,2017,4.373040879,Europa
+Curazao,CUW,2017,3.243351262,América del Norte
+Chipre,CYP,2017,3.051524636,Europa
+República Checa,CZE,2017,3.108033837,Europa
+República Democrática del Congo,COD,2017,3.24618016,África
+Dinamarca,DNK,2017,2.389893956,Europa
+Djibouti,DJI,2017,3.540836588,África
+Dominica,DMA,2017,4.154977707,América del Norte
+República Dominicana,DOM,2017,4.024191138,América del Norte
+Ecuador,ECU,2017,3.182589661,América del Sur
+Egipto,EGY,2017,4.148056121,África
+El Salvador,SLV,2017,4.686519279,América del Norte
+Guinea Ecuatorial,GNQ,2017,3.888462533,África
+Estonia,EST,2017,3.287714057,Europa
+Eswatini,SWZ,2017,3.202414589,África
+Etiopía,ETH,2017,3.647435865,África
+Fiji,FJI,2017,3.955216302,Oceanía
+Finlandia,FIN,2017,2.574301349,Europa
+Francia,FRA,2017,2.994268773,Europa
+Gabon,GAB,2017,3.759603537,África
+Gambia,GMB,2017,3.849925952,África
+Alemania,DEU,2017,2.778415742,Europa
+Ghana,GHA,2017,4.250567979,África
+Grecia,GRC,2017,3.085863011,Europa
+Granada,GRD,2017,5.791377998,América del Norte
+Guinea,GIN,2017,4.147675709,África
+Guinea-Bissau,GNB,2017,3.778343141,África
+Guyana,GUY,2017,4.771648186,América del Sur
+Haití,HTI,2017,4.698406729,América del Norte
+Honduras,HND,2017,3.649055412,América del Norte
+Hong Kong,HKG,2017,4.778824779,Asia
+Hungría,HUN,2017,3.721089004,Europa
+Islandia,ISL,2017,2.386684087,Europa
+India,IND,2017,3.219106537,Asia
+Indonesia,IDN,2017,5.056987635,Asia
+Irán,IRN,2017,3.459457249,Asia
+Iraq,IRQ,2017,3.919958686,Asia
+Irlanda,IRL,2017,2.470563485,Europa
+Israel,ISR,2017,2.675549201,Asia
+Italia,ITA,2017,3.093535301,Europa
+Jamaica,JAM,2017,5.497522295,América del Norte
+Japón,JPN,2017,5.199124462,Asia
+Jordania,JOR,2017,4.130602626,Asia
+Kazajistán,KAZ,2017,2.796565717,Asia
+Kenia,KEN,2017,3.084440941,África
+Kuwait,KWT,2017,3.940640544,Asia
+Kirguistán,KGZ,2017,3.641826927,Asia
+Laos,LAO,2017,5.015950742,Asia
+Letonia,LVA,2017,3.328510193,Europa
+Lesoto,LSO,2017,4.189361766,África
+Liberia,LBR,2017,5.066444218,África
+Lituania,LTU,2017,3.215128148,Europa
+Luxemburgo,LUX,2017,2.491222593,Europa
+Madagascar,MDG,2017,3.45983533,África
+Malawi,MWI,2017,2.703610821,África
+Malasia,MYS,2017,3.962462647,Asia
+Maldivas,MDV,2017,3.638542468,Asia
+Mali,MLI,2017,3.25869826,África
+Malta,MLT,2017,3.932199898,Europa
+Mauritania,MRT,2017,4.429886868,África
+Mauricio,MUS,2017,3.719799844,África
+México,MEX,2017,3.266979428,América del Norte
+Moldavia,MDA,2017,2.878004293,Europa
+Mongolia,MNG,2017,4.610406534,Asia
+Montenegro,MNE,2017,3.763333674,Europa
+Montserrat,MSR,2017,5.582096415,América del Norte
+Marruecos,MAR,2017,2.889392766,África
+Mozambique,MOZ,2017,3.488296239,África
+Myanmar,MMR,2017,3.665605709,Asia
+Namibia,NAM,2017,3.187241981,África
+Nepal,NPL,2017,3.836645519,Asia
+Holanda,NLD,2017,2.768451443,Europa
+Nueva Zelanda,NZL,2017,2.742694432,Oceanía
+Nicaragua,NIC,2017,3.51918096,América del Norte
+Niger,NER,2017,3.607580503,África
+Nigeria,NGA,2017,3.388323049,África
+Macedonia del Norte,MKD,2017,3.690535055,Europa
+Noruega,NOR,2017,3.458190307,Europa
+Omán,OMN,2017,3.419003808,Asia
+Pakistán,PAK,2017,3.827949612,Asia
+Palestina,PSE,2017,3.888489643,Asia
+Panamá,PAN,2017,4.876472158,América del Norte
+Paraguay,PRY,2017,3.603425935,América del Sur
+Perú,PER,2017,3.591001371,América del Sur
+Filipinas,PHL,2017,4.07534677,Asia
+Polonia,POL,2017,3.097216182,Europa
+Portugal,PRT,2017,2.688893108,Europa
+Qatar,QAT,2017,3.114980124,Asia
+Rumania,ROU,2017,3.306929619,Europa
+Rusia,RUS,2017,3.398629889,Europa
+Ruanda,RWA,2017,3.607720503,África
+San Cristóbal y Nieves,KNA,2017,3.303374697,América del Norte
+Santa Lucía,LCA,2017,3.481056905,América del Norte
+San Vicente y las Granadinas,VCT,2017,4.696051476,América del Norte
+Santo Tomé y Príncipe,STP,2017,3.2009921,África
+Arabia Saudita,SAU,2017,4.113231444,Asia
+Senegal,SEN,2017,3.178888156,África
+Serbia,SRB,2017,4.336531784,Europa
+Seychelles,SYC,2017,3.840847424,África
+Sierra Leona,SLE,2017,2.770219681,África
+Singapur,SGP,2017,3.361207015,Asia
+San Martín (Países Bajos),SXM,2017,4.795366429,América del Norte
+Eslovaquia,SVK,2017,3.333447784,Europa
+Eslovenia,SVN,2017,3.041276348,Europa
+Sudáfrica,ZAF,2017,4.276109309,África
+Korea del Sur,KOR,2017,4.860810844,Asia
+España,ESP,2017,2.715095317,Europa
+Sri Lanka,LKA,2017,4.050519973,Asia
+Sudán,SDN,2017,4.232425264,África
+Surinam,SUR,2017,5.129114155,América del Sur
+Suecia,SWE,2017,2.889616398,Europa
+Suiza,CHE,2017,2.45778473,Europa
+Taiwán,TWN,2017,5.045165569,Asia
+Tayikistán,TJK,2017,3.217305785,Asia
+Tanzania,TZA,2017,2.670800338,África
+Tailandia,THA,2017,5.012801356,Asia
+Togo,TGO,2017,6.206968342,África
+Trinidad y Tobago,TTO,2017,4.08868259,América del Norte
+Túnez,TUN,2017,3.447835621,África
+Turquía,TUR,2017,3.440223518,Asia
+Islas Turcas y Caicos,TCA,2017,3.492283549,América del Norte
+Uganda,UGA,2017,3.000061375,África
+Emiratos Árabes Unidos,ARE,2017,3.412668665,Asia
+Reino Unido,GBR,2017,1.887692082,Europa
+Estados Unidos,USA,2017,2.974152331,América del Norte
+Uruguay,URY,2017,2.961332191,América del Sur
+Vietnam,VNM,2017,4.306775634,Asia
+Zambia,ZMB,2017,3.306079267,África
+Zimbawe,ZWE,2017,3.967124844,África

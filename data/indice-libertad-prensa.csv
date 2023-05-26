@@ -1,0 +1,1620 @@
+anio,pais,iso3_pais,puntaje,ranking,region_bm1,region_bm2,descripcion_puntaje,pib_percapita
+2013,Finlandia,FIN,93.62,1,Europe & Central Asia,Northern Europe,buena situación,45300
+2013,Países Bajos,NLD,93.52,2,Europe & Central Asia,Western Europe,buena situación,51600
+2013,Noruega,NOR,93.48,3,Europe & Central Asia,Northern Europe,buena situación,61900
+2013,Luxemburgo,LUX,93.32,4,Europe & Central Asia,Western Europe,buena situación,113000
+2013,Andorra,AND,93.18,5,Europe & Central Asia,Southern Europe,buena situación,49500
+2013,Dinamarca,DNK,92.92,6,Europe & Central Asia,Northern Europe,buena situación,51500
+2013,Liechtenstein,LIE,92.65,7,Europe & Central Asia,Western Europe,buena situación,NA
+2013,Nueva Zelanda,NZL,91.62,8,East Asia & Pacific,Australia and New Zealand,buena situación,39600
+2013,Islandia,ISL,91.51,9,Europe & Central Asia,Northern Europe,buena situación,50200
+2013,Suecia,SWE,90.77,10,Europe & Central Asia,Northern Europe,buena situación,48500
+2013,Estonia,EST,90.74,11,Europe & Central Asia,Northern Europe,buena situación,29500
+2013,Austria,AUT,90.6,12,Europe & Central Asia,Western Europe,buena situación,53000
+2013,Jamaica,JAM,90.12,13,Latin America & Caribbean,Caribbean,buena situación,9430
+2013,Suiza,CHE,90.06,14,Europe & Central Asia,Western Europe,buena situación,66900
+2013,Irlanda,IRL,89.94,15,Europe & Central Asia,Northern Europe,buena situación,53400
+2013,República Checa,CZE,89.83,16,Europe & Central Asia,Eastern Europe,buena situación,33700
+2013,Alemania,DEU,89.76,17,Europe & Central Asia,Western Europe,buena situación,50000
+2013,Costa Rica,CRI,87.92,18,Latin America & Caribbean,Central America,buena situación,18200
+2013,Namibia,"NAM",87.5,19,Sub-Saharan Africa,Southern Africa,buena situación,9990
+2013,Canadá,CAN,87.31,20,North America,Northern America,buena situación,46700
+2013,Bélgica,BEL,87.06,21,Europe & Central Asia,Western Europe,buena situación,48200
+2013,Polonia,POL,86.89,22,Europe & Central Asia,Eastern Europe,buena situación,25800
+2013,Eslovaquia,SVK,86.75,23,Europe & Central Asia,Eastern Europe,buena situación,26600
+2013,Chipre,CYP,86.17,24,Europe & Central Asia,Western Asia,buena situación,33400
+2013,Cabo Verde,CPV,85.67,25,Sub-Saharan Africa,Western Africa,buena situación,6320
+2013,Australia,AUS,84.76,26,East Asia & Pacific,Australia and New Zealand,situación más bien buena,46700
+2013,Uruguay,URY,84.08,27,Latin America & Caribbean,South America,situación más bien buena,21800
+2013,Portugal,PRT,83.25,28,Europe & Central Asia,Southern Europe,situación más bien buena,30000
+2013,Reino Unido,GBR,83.11,29,Europe & Central Asia,Northern Europe,situación más bien buena,43300
+2013,Ghana,GHA,82.73,30,Sub-Saharan Africa,Western Africa,situación más bien buena,4770
+2013,Surinam,SUR,81.81,31,Latin America & Caribbean,South America,situación más bien buena,20400
+2013,Estados Unidos,USA,81.78,32,North America,Northern America,situación más bien buena,56200
+2013,Lituania,LTU,81.76,33,Europe & Central Asia,Northern Europe,situación más bien buena,28600
+2013,OECS,XCD,80.28,34,NA,NA,situación más bien buena,NA
+2013,Eslovenia,SVN,79.51,35,Europe & Central Asia,Southern Europe,situación más bien buena,32200.000000000004
+2013,España,ESP,79.5,36,Europe & Central Asia,Southern Europe,situación más bien buena,35400
+2013,Francia,FRA,78.4,37,Europe & Central Asia,Western Europe,situación más bien buena,42800
+2013,El Salvador,SLV,77.14,38,Latin America & Caribbean,Central America,situación más bien buena,7890
+2013,Letonia,LVA,77.11,39,Europe & Central Asia,Northern Europe,situación más bien buena,24700
+2013,Botsuana,BWA,77.09,40,Sub-Saharan Africa,Southern Africa,situación más bien buena,15600
+2013,Papúa Nueva Guinea,PNG,77.03,41,East Asia & Pacific,Melanesia,situación más bien buena,3510
+2013,Rumania,ROU,76.95,42,Europe & Central Asia,Eastern Europe,situación más bien buena,22200
+2013,Niger,NER,76.92,43,Sub-Saharan Africa,Western Africa,situación más bien buena,1100
+2013,Trinidad y Tobago,TTO,76.88,44,Latin America & Caribbean,Caribbean,situación más bien buena,29200
+2013,Malta,MLT,76.7,45,Middle East & North Africa,Southern Europe,situación más bien buena,35300
+2013,Burkina Faso,BFA,76.3,46,Sub-Saharan Africa,Western Africa,situación más bien buena,1880
+2013,Taiwán,TWN,76.18,47,East Asia & Pacific,Eastern Asia,situación más bien buena,46500
+2013,Samoa,WSM,76.16,48,East Asia & Pacific,Polynesia,situación más bien buena,5830
+2013,Haití,HTI,75.91,49,Latin America & Caribbean,Caribbean,situación más bien buena,3060
+2013,Corea del Sur,KOR,75.52,50,East Asia & Pacific,Eastern Asia,situación más bien buena,37000
+2013,Comoras,COM,75.48,51,Sub-Saharan Africa,Eastern Africa,situación más bien buena,3010
+2013,Sudáfrica,ZAF,75.44,52,Sub-Saharan Africa,Southern Africa,situación más bien buena,14100
+2013,Japón,JPN,74.83,53,East Asia & Pacific,Eastern Asia,problemas significativos,39600
+2013,Argentina,ARG,74.33,54,Latin America & Caribbean,South America,problemas significativos,24400
+2013,Moldavia,MDA,73.99,55,Europe & Central Asia,Eastern Europe,problemas significativos,9820
+2013,Hungría,HUN,73.91,56,Europe & Central Asia,Eastern Europe,problemas significativos,25300
+2013,Italia,ITA,73.89,57,Europe & Central Asia,Southern Europe,problemas significativos,40300
+2013,Hong Kong,HKG,73.84,58,East Asia & Pacific,Eastern Asia,problemas significativos,55200
+2013,Senegal,SEN,73.81,59,Sub-Saharan Africa,Western Africa,problemas significativos,2780
+2013,Chile,CHL,73.76,60,Latin America & Caribbean,South America,problemas significativos,24000
+2013,Sierra Leona,SLE,73.65,61,Sub-Saharan Africa,Western Africa,problemas significativos,1940
+2013,Mauricio,MUS,73.53,62,Sub-Saharan Africa,Eastern Africa,problemas significativos,18600
+2013,Serbia,SRB,73.41,63,Europe & Central Asia,Southern Europe,problemas significativos,15400
+2013,República Centroafricana,CAF,73.39,65,Sub-Saharan Africa,Middle Africa,problemas significativos,825
+2013,Croacia,HRV,73.39,64,Europe & Central Asia,Southern Europe,problemas significativos,24100
+2013,Tonga,TON,73.3,66,East Asia & Pacific,Polynesia,problemas significativos,5700
+2013,Mauritania,MRT,73.24,67,Sub-Saharan Africa,Western Africa,problemas significativos,4850
+2013,Bosnia-Herzegovina,BIH,73.14,68,Europe & Central Asia,Southern Europe,problemas significativos,11700
+2013,Guyana,GUY,72.92,69,Latin America & Caribbean,South America,problemas significativos,11100
+2013,Tanzania,TZA,72.66,70,Sub-Saharan Africa,Eastern Africa,problemas significativos,2210
+2013,Kenia,KEN,72.2,71,Sub-Saharan Africa,Eastern Africa,problemas significativos,3890
+2013,Zambia,ZMB,72.07,72,Sub-Saharan Africa,Eastern Africa,problemas significativos,3400
+2013,Mozambique,MOZ,71.99,73,Sub-Saharan Africa,Eastern Africa,problemas significativos,1170
+2013,Armenia,ARM,71.96,74,Europe & Central Asia,Western Asia,problemas significativos,10700
+2013,Malaui,MWI,71.82,75,Sub-Saharan Africa,Eastern Africa,problemas significativos,1420
+2013,República del Congo,COG,71.8,76,Sub-Saharan Africa,Middle Africa,problemas significativos,5330
+2013,Kuwait,KWT,71.72,77,Middle East & North Africa,Western Asia,problemas significativos,59000
+2013,Nicaragua,NIC,71.69,78,Latin America & Caribbean,Central America,problemas significativos,5260
+2013,Benín,BEN,71.67,79,Sub-Saharan Africa,Western Africa,problemas significativos,2880
+2013,República Dominicana,DOM,71.66,80,Latin America & Caribbean,Caribbean,problemas significativos,13700
+2013,Lesoto,LSO,71.64,81,Sub-Saharan Africa,Southern Africa,problemas significativos,2610
+2013,Bután,BTN,71.58,82,South Asia,Southern Asia,problemas significativos,9160
+2013,Togo,TGO,71.55,83,Sub-Saharan Africa,Western Africa,problemas significativos,1810
+2013,Grecia,GRC,71.54,84,Europe & Central Asia,Southern Europe,problemas significativos,27800
+2013,Kosovo,XKO,71.53,85,NA,NA,problemas significativos,NA
+2013,Guinea,GIN,71.51,86,Sub-Saharan Africa,Western Africa,problemas significativos,2040
+2013,Bulgaria,BGR,71.42,87,Europe & Central Asia,Eastern Europe,problemas significativos,18900
+2013,Madagascar,MDG,71.38,88,Sub-Saharan Africa,Eastern Africa,problemas significativos,1530
+2013,República Gabonesa,GAB,71.31,89,Sub-Saharan Africa,Middle Africa,problemas significativos,15300
+2013,Timor Oriental,TLS,71.28,90,East Asia & Pacific,South-Eastern Asia,problemas significativos,3180
+2013,Paraguay,PRY,71.22,91,Latin America & Caribbean,South America,problemas significativos,11200
+2013,Guinea-Bisáu,GNB,71.06,92,Sub-Saharan Africa,Western Africa,problemas significativos,1770
+2013,Seychelles,SYC,70.81,93,Sub-Saharan Africa,Eastern Africa,problemas significativos,24200
+2013,Chipre Norte,CTU,70.66,94,NA,NA,problemas significativos,NA
+2013,Guatemala,GTM,70.61,95,Latin America & Caribbean,Central America,problemas significativos,7730
+2013,Costa de Marfil,CIV,70.23,96,Sub-Saharan Africa,Western Africa,problemas significativos,3280
+2013,Liberia,LBR,70.11,97,Sub-Saharan Africa,Western Africa,problemas significativos,1710
+2013,Mongolia,MNG,70.07,98,East Asia & Pacific,Eastern Asia,problemas significativos,10400
+2013,Malí,MLI,69.97,99,Sub-Saharan Africa,Western Africa,problemas significativos,2000
+2013,Georgia,GEO,69.91,100,Europe & Central Asia,Western Asia,problemas significativos,11700
+2013,Líbano,LBN,69.85,101,Middle East & North Africa,Western Asia,problemas significativos,17500
+2013,Albania,ALB,69.12,102,Europe & Central Asia,Southern Europe,problemas significativos,11400
+2013,Maldivas,MDV,68.9,103,South Asia,Southern Asia,problemas significativos,17100
+2013,Uganda,UGA,68.31,104,Sub-Saharan Africa,Eastern Africa,problemas significativos,2000
+2013,Peru,PER,68.13,105,Latin America & Caribbean,South America,problemas significativos,11700
+2013,Kirguistán,KGZ,67.8,106,Europe & Central Asia,Central Asia,problemas significativos,4630
+2013,Fiyi,FJI,67.31,107,East Asia & Pacific,Melanesia,problemas significativos,11400
+2013,Brasil,BRA,67.25,108,Latin America & Caribbean,South America,problemas significativos,15800
+2013,Bolivia,BOL,67.2,109,Latin America & Caribbean,South America,problemas significativos,7440
+2013,Catar,QAT,67.14,110,Middle East & North Africa,Western Asia,problemas significativos,95500
+2013,Panamá,PAN,67.05,111,Latin America & Caribbean,Central America,problemas significativos,26500
+2013,Israel,ISR,67.03,112,Middle East & North Africa,Western Asia,problemas significativos,36400
+2013,Montenegro,MNE,67.03,113,Europe & Central Asia,Southern Europe,problemas significativos,17400
+2013,Emiratos Árabes Unidos,ARE,66.51,114,Middle East & North Africa,Western Asia,problemas significativos,59900
+2013,Nigeria,NGA,65.89,115,Sub-Saharan Africa,Western Africa,problemas significativos,5330
+2013,República de Macedonia del Norte,MKD,65.73,116,Europe & Central Asia,Southern Europe,problemas significativos,14100
+2013,Venezuela,VEN,65.56,117,Latin America & Caribbean,South America,problemas significativos,24900
+2013,Nepal,NPL,65.39,118,South Asia,Southern Asia,problemas significativos,3030
+2013,Ecuador,ECU,65.31,119,Latin America & Caribbean,South America,problemas significativos,11800
+2013,Camerún,CMR,65.22,120,Sub-Saharan Africa,Middle Africa,problemas significativos,3370
+2013,Chad,TCD,65.13,121,Sub-Saharan Africa,Middle Africa,problemas significativos,1800
+2013,Brunéi,BRN,64.55,122,East Asia & Pacific,South-Eastern Asia,situación difícil,66700
+2013,Tayikistán,TJK,64.29,123,Europe & Central Asia,Central Asia,situación difícil,2770
+2013,Sudán del Sur,SSD,63.8,124,Sub-Saharan Africa,Northern Africa,situación difícil,2430
+2013,Argelia,DZA,63.46,125,Middle East & North Africa,Northern Africa,situación difícil,11300
+2013,Ucrania,UKR,63.21,126,Europe & Central Asia,Eastern Europe,situación difícil,13000
+2013,Honduras,HND,63.08,127,Latin America & Caribbean,Central America,situación difícil,5110
+2013,Afganistán,AFG,62.64,128,South Asia,Southern Asia,situación difícil,2120
+2013,Colombia,COL,62.52,129,Latin America & Caribbean,South America,situación difícil,13400
+2013,Angola,AGO,62.2,130,Sub-Saharan Africa,Middle Africa,situación difícil,8140
+2013,Libia,LBY,62.14,131,Middle East & North Africa,Northern Africa,situación difícil,16200
+2013,Burundi,BDI,61.98,132,Sub-Saharan Africa,Eastern Africa,situación difícil,877
+2013,Zimbabue,ZWE,61.88,133,Sub-Saharan Africa,Eastern Africa,situación difícil,3680
+2013,Jordania,JOR,61.53,134,Middle East & North Africa,Western Asia,situación difícil,10400
+2013,Tailandia,THA,61.4,135,East Asia & Pacific,South-Eastern Asia,situación difícil,15800
+2013,Marruecos,MAR,60.96,136,Middle East & North Africa,Northern Africa,situación difícil,6830
+2013,Etiopía,ETH,60.43,137,Sub-Saharan Africa,Eastern Africa,situación difícil,1550
+2013,Túnez,TUN,60.07,138,Middle East & North Africa,Northern Africa,situación difícil,10900
+2013,Indonesia,IDN,58.95,139,East Asia & Pacific,South-Eastern Asia,situación difícil,9460
+2013,India,IND,58.78,140,South Asia,Southern Asia,situación difícil,4820
+2013,Omán,OMN,58.49,141,Middle East & North Africa,Western Asia,situación difícil,36800
+2013,RD Congo,COD,58.34,142,Sub-Saharan Africa,Middle Africa,situación difícil,972
+2013,Camboya,KHM,58.19,143,East Asia & Pacific,South-Eastern Asia,situación difícil,3190
+2013,Bangladés,BGD,57.99,144,South Asia,Southern Asia,situación difícil,3350
+2013,Malasia,MYS,57.27,145,East Asia & Pacific,South-Eastern Asia,situación difícil,22900
+2013,Palestina,PSE,56.91,146,Middle East & North Africa,Western Asia,situación difícil,6120
+2013,Filipinas,PHL,56.89,147,East Asia & Pacific,South-Eastern Asia,situación difícil,6670
+2013,Rusia,RUS,56.58,148,Europe & Central Asia,Eastern Europe,situación difícil,26300
+2013,Singapur,SGP,56.57,149,East Asia & Pacific,South-Eastern Asia,situación difícil,85700
+2013,Irak,IRQ,55.33,150,Middle East & North Africa,Western Asia,situación difícil,10200
+2013,Birmania,MMR,55.29,151,East Asia & Pacific,South-Eastern Asia,situación difícil,3330
+2013,Gambia,GMB,54.91,152,Sub-Saharan Africa,Western Africa,situación difícil,2130
+2013,México,MEX,54.7,153,Latin America & Caribbean,Central America,situación difícil,18600
+2013,Turquía,TUR,53.44,154,Europe & Central Asia,Western Asia,situación difícil,24100
+2013,Esuatini,SWZ,53.24,155,Sub-Saharan Africa,Southern Africa,situación difícil,8180
+2013,Azerbaiyán,AZE,52.27,156,Europe & Central Asia,Western Asia,situación difícil,14700
+2013,Belarús,BLR,51.65,157,Europe & Central Asia,Eastern Europe,situación difícil,18800
+2013,Egipto,EGY,51.34,158,Middle East & North Africa,Northern Africa,situación difícil,10300
+2013,Pakistán,PAK,48.69,159,South Asia,Southern Asia,situación difícil,4070
+2013,Kazajistán,KAZ,44.92,160,Europe & Central Asia,Central Asia,situación muy grave,23700
+2013,Ruanda,RWA,44.54,161,Sub-Saharan Africa,Eastern Africa,situación muy grave,1720
+2013,Sri Lanka,LKA,43.41,162,South Asia,Southern Asia,situación muy grave,11000
+2013,Arabia Saudita,SAU,43.12,163,Middle East & North Africa,Western Asia,situación muy grave,47800
+2013,Uzbekistán,UZB,39.61,164,Europe & Central Asia,Central Asia,situación muy grave,5780
+2013,Baréin,BHR,37.25,165,Middle East & North Africa,Western Asia,situación muy grave,46900
+2013,Guinea Ecuatorial,GNQ,32.8,166,Sub-Saharan Africa,Middle Africa,situación muy grave,33700
+2013,Yibuti,DJI,32.6,167,Middle East & North Africa,Eastern Africa,situación muy grave,4030
+2013,Laos,LAO,32.01,168,East Asia & Pacific,South-Eastern Asia,situación muy grave,5840
+2013,Yemen,YEM,30.78,169,Middle East & North Africa,Western Asia,situación muy grave,4840
+2013,Sudán,SDN,29.94,170,Sub-Saharan Africa,Northern Africa,situación muy grave,4560
+2013,Cuba,CUB,28.36,171,Latin America & Caribbean,Caribbean,situación muy grave,8580
+2013,Vietnam,VNM,28.22,172,East Asia & Pacific,South-Eastern Asia,situación muy grave,5820
+2013,China,CHN,26.93,173,East Asia & Pacific,Eastern Asia,situación muy grave,11100
+2013,Irán,IRN,26.6,174,Middle East & North Africa,Southern Asia,situación muy grave,12600
+2013,Somalia,SOM,26.41,175,Sub-Saharan Africa,Eastern Africa,situación muy grave,877
+2013,Siria,SYR,21.47,176,Middle East & North Africa,Western Asia,situación muy grave,4790
+2013,Turkmenistán,TKM,20.86,177,Europe & Central Asia,Central Asia,situación muy grave,11500
+2013,Corea del Norte,PRK,16.1,178,East Asia & Pacific,Eastern Asia,situación muy grave,2070
+2013,Eritrea,ERI,15.17,179,Sub-Saharan Africa,Eastern Africa,situación muy grave,1310
+2014,Finlandia,FIN,93.6,1,Europe & Central Asia,Northern Europe,buena situación,45000
+2014,Países Bajos,NLD,93.54,2,Europe & Central Asia,Western Europe,buena situación,52200
+2014,Noruega,NOR,93.48,3,Europe & Central Asia,Northern Europe,buena situación,62400
+2014,Luxemburgo,LUX,93.3,4,Europe & Central Asia,Western Europe,buena situación,113000
+2014,Andorra,AND,93.18,5,Europe & Central Asia,Southern Europe,buena situación,50900
+2014,Liechtenstein,LIE,92.98,6,Europe & Central Asia,Western Europe,buena situación,NA
+2014,Dinamarca,DNK,92.57,7,Europe & Central Asia,Northern Europe,buena situación,52000
+2014,Islandia,ISL,91.5,8,Europe & Central Asia,Northern Europe,buena situación,50500
+2014,Nueva Zelanda,NZL,91.45,9,East Asia & Pacific,Australia and New Zealand,buena situación,40400
+2014,Suecia,SWE,91.02,10,Europe & Central Asia,Northern Europe,buena situación,49300
+2014,Estonia,EST,90.37,11,Europe & Central Asia,Northern Europe,buena situación,30500
+2014,Austria,AUT,89.99,12,Europe & Central Asia,Western Europe,buena situación,52900
+2014,República Checa,CZE,89.93,13,Europe & Central Asia,Eastern Europe,buena situación,34400
+2014,Alemania,DEU,89.77,14,Europe & Central Asia,Western Europe,buena situación,50800
+2014,Suiza,CHE,89.53,15,Europe & Central Asia,Western Europe,buena situación,67700
+2014,Irlanda,IRL,89.13,16,Europe & Central Asia,Northern Europe,buena situación,57700
+2014,Jamaica,JAM,89.1,17,Latin America & Caribbean,Caribbean,buena situación,9440
+2014,Canadá,CAN,89.01,18,North America,Northern America,buena situación,47600
+2014,Polonia,POL,88.97,19,Europe & Central Asia,Eastern Europe,buena situación,26600
+2014,Eslovaquia,SVK,88.61,20,Europe & Central Asia,Eastern Europe,buena situación,27300
+2014,Costa Rica,CRI,87.77,21,Latin America & Caribbean,Central America,buena situación,18700
+2014,Namibia,"NAM",87.5,22,Sub-Saharan Africa,Southern Africa,buena situación,10400
+2014,Bélgica,BEL,87.2,23,Europe & Central Asia,Western Europe,buena situación,48700
+2014,Cabo Verde,CPV,85.68,24,Sub-Saharan Africa,Western Africa,buena situación,6280
+2014,Chipre,CYP,85.55,25,Europe & Central Asia,Western Asia,buena situación,33100
+2014,Uruguay,URY,83.92,26,Latin America & Caribbean,South America,situación más bien buena,22400
+2014,Ghana,GHA,83.71,27,Sub-Saharan Africa,Western Africa,situación más bien buena,4790
+2014,Australia,AUS,83.09,28,East Asia & Pacific,Australia and New Zealand,situación más bien buena,47200
+2014,Belice,BLZ,82.95,29,Latin America & Caribbean,Central America,situación más bien buena,7320
+2014,Portugal,PRT,82.27,30,Europe & Central Asia,Southern Europe,situación más bien buena,30400
+2014,Surinam,SUR,81.8,31,Latin America & Caribbean,South America,situación más bien buena,20200
+2014,Lituania,LTU,80.8,32,Europe & Central Asia,Northern Europe,situación más bien buena,29900
+2014,Reino Unido,GBR,80.07,33,Europe & Central Asia,Northern Europe,situación más bien buena,44200
+2014,Eslovenia,SVN,79.62,34,Europe & Central Asia,Southern Europe,situación más bien buena,33100
+2014,España,ESP,79.37,35,Europe & Central Asia,Southern Europe,situación más bien buena,36000
+2014,OECS,XCD,79.19,36,NA,NA,situación más bien buena,NA
+2014,Letonia,LVA,78.9,37,Europe & Central Asia,Northern Europe,situación más bien buena,25400
+2014,El Salvador,SLV,78.43,38,Latin America & Caribbean,Central America,situación más bien buena,7990
+2014,Francia,FRA,78.11,39,Europe & Central Asia,Western Europe,situación más bien buena,43000
+2014,Samoa,WSM,77.98,40,East Asia & Pacific,Polynesia,situación más bien buena,5790
+2014,Botsuana,BWA,77.09,41,Sub-Saharan Africa,Southern Africa,situación más bien buena,16000
+2014,Sudáfrica,ZAF,76.81,42,Sub-Saharan Africa,Southern Africa,situación más bien buena,14000
+2014,Trinidad y Tobago,TTO,76.72,43,Latin America & Caribbean,Caribbean,situación más bien buena,28800
+2014,Papúa Nueva Guinea,PNG,76.54,44,East Asia & Pacific,Melanesia,situación más bien buena,3910
+2014,Rumania,ROU,76.52,45,Europe & Central Asia,Eastern Europe,situación más bien buena,23100
+2014,Estados Unidos,USA,76.51,46,North America,Northern America,situación más bien buena,57200
+2014,Haití,HTI,76.47,47,Latin America & Caribbean,Caribbean,situación más bien buena,3070
+2014,Niger,NER,76.41,48,Sub-Saharan Africa,Western Africa,situación más bien buena,1130
+2014,Italia,ITA,76.25,49,Europe & Central Asia,Southern Europe,situación más bien buena,39900
+2014,Taiwán,TWN,76.18,50,East Asia & Pacific,Eastern Asia,situación más bien buena,48200
+2014,Malta,MLT,76.16,51,Middle East & North Africa,Southern Europe,situación más bien buena,37200
+2014,Burkina Faso,BFA,75.55,52,Sub-Saharan Africa,Western Africa,situación más bien buena,1910
+2014,Comoras,COM,75.48,53,Sub-Saharan Africa,Eastern Africa,situación más bien buena,3000
+2014,Serbia,SRB,74.95,54,Europe & Central Asia,Southern Europe,problemas significativos,15200
+2014,Argentina,ARG,74.73,55,Latin America & Caribbean,South America,problemas significativos,23600
+2014,Moldavia,MDA,74.65,56,Europe & Central Asia,Eastern Europe,problemas significativos,10300
+2014,Corea del Sur,KOR,74.34,57,East Asia & Pacific,Eastern Asia,problemas significativos,38000
+2014,Chile,CHL,74.2,58,Latin America & Caribbean,South America,problemas significativos,24200
+2014,Japón,JPN,73.98,59,East Asia & Pacific,Eastern Asia,problemas significativos,39700
+2014,Mauritania,MRT,73.47,60,Sub-Saharan Africa,Western Africa,problemas significativos,4910
+2014,Hong Kong,HKG,73.45,61,East Asia & Pacific,Eastern Asia,problemas significativos,56400
+2014,Senegal,SEN,73.32,62,Sub-Saharan Africa,Western Africa,problemas significativos,2870
+2014,Tonga,TON,73.3,63,East Asia & Pacific,Polynesia,problemas significativos,5860
+2014,Hungría,HUN,73.27,64,Europe & Central Asia,Eastern Europe,problemas significativos,26500
+2014,Croacia,HRV,73.18,65,Europe & Central Asia,Southern Europe,problemas significativos,24100
+2014,Bosnia-Herzegovina,BIH,73.14,66,Europe & Central Asia,Southern Europe,problemas significativos,12100
+2014,Guyana,GUY,72.92,67,Latin America & Caribbean,South America,problemas significativos,11200
+2014,República Dominicana,DOM,72.83,68,Latin America & Caribbean,Caribbean,problemas significativos,14500
+2014,Tanzania,TZA,72.7,69,Sub-Saharan Africa,Eastern Africa,problemas significativos,2290
+2014,Mauricio,MUS,72.31,70,Sub-Saharan Africa,Eastern Africa,problemas significativos,19200
+2014,Nicaragua,NIC,72.3,71,Latin America & Caribbean,Central America,problemas significativos,5440
+2014,Sierra Leona,SLE,71.77,72,Sub-Saharan Africa,Western Africa,problemas significativos,1990
+2014,Malaui,MWI,71.71,73,Sub-Saharan Africa,Eastern Africa,problemas significativos,1460
+2014,Lesoto,LSO,71.64,74,Sub-Saharan Africa,Southern Africa,problemas significativos,2640
+2014,Benín,BEN,71.17,75,Sub-Saharan Africa,Western Africa,problemas significativos,2980
+2014,Togo,TGO,71,76,Sub-Saharan Africa,Western Africa,problemas significativos,1860
+2014,Timor Oriental,TLS,70.96,77,East Asia & Pacific,South-Eastern Asia,problemas significativos,3270
+2014,Armenia,ARM,70.93,78,Europe & Central Asia,Western Asia,problemas significativos,11000
+2014,Mozambique,MOZ,70.74,79,Sub-Saharan Africa,Eastern Africa,problemas significativos,1220
+2014,Kosovo,XKO,70.71,80,NA,NA,problemas significativos,NA
+2014,Madagascar,MDG,70.62,81,Sub-Saharan Africa,Eastern Africa,problemas significativos,1540
+2014,República del Congo,COG,70.56,82,Sub-Saharan Africa,Middle Africa,problemas significativos,5550
+2014,Chipre Norte,CTU,70.46,83,NA,NA,problemas significativos,NA
+2014,Georgia,GEO,70.22,84,Europe & Central Asia,Western Asia,problemas significativos,12300
+2014,Albania,ALB,70.08,85,Europe & Central Asia,Southern Europe,problemas significativos,11600
+2014,Guinea-Bisáu,GNB,69.95,86,Sub-Saharan Africa,Western Africa,problemas significativos,1740
+2014,Panamá,PAN,69.8,87,Latin America & Caribbean,Central America,problemas significativos,27400
+2014,Mongolia,MNG,69.7,88,East Asia & Pacific,Eastern Asia,problemas significativos,11000
+2014,Liberia,LBR,69.35,89,Sub-Saharan Africa,Western Africa,problemas significativos,1670
+2014,Kenia,KEN,69.3,90,Sub-Saharan Africa,Eastern Africa,problemas significativos,3980
+2014,Kuwait,KWT,69.29,91,Middle East & North Africa,Western Asia,problemas significativos,56600
+2014,Bután,BTN,69.27,92,South Asia,Southern Asia,problemas significativos,9570
+2014,Zambia,ZMB,69.11,93,Sub-Saharan Africa,Eastern Africa,problemas significativos,3450
+2014,Bolivia,BOL,68.96,94,Latin America & Caribbean,South America,problemas significativos,7730
+2014,Ecuador,ECU,68.84,95,Latin America & Caribbean,South America,problemas significativos,12100
+2014,Israel,ISR,68.81,96,Middle East & North Africa,Western Asia,problemas significativos,37200
+2014,Kirguistán,KGZ,68.76,97,Europe & Central Asia,Central Asia,problemas significativos,4720
+2014,República Gabonesa,GAB,68.68,98,Sub-Saharan Africa,Middle Africa,problemas significativos,15400
+2014,Grecia,GRC,68.67,99,Europe & Central Asia,Southern Europe,problemas significativos,28100
+2014,Bulgaria,BGR,68.58,100,Europe & Central Asia,Eastern Europe,problemas significativos,19200
+2014,Costa de Marfil,CIV,68.37,101,Sub-Saharan Africa,Western Africa,problemas significativos,3500
+2014,Guinea,GIN,68.33,102,Sub-Saharan Africa,Western Africa,problemas significativos,2060
+2014,Seychelles,SYC,68.32,103,Sub-Saharan Africa,Eastern Africa,problemas significativos,24900
+2014,Peru,PER,68.3,104,Latin America & Caribbean,South America,problemas significativos,11900
+2014,Paraguay,PRY,68.19,105,Latin America & Caribbean,South America,problemas significativos,11600
+2014,Líbano,LBN,68.11,106,Middle East & North Africa,Western Asia,problemas significativos,17000
+2014,Fiyi,FJI,67.43,107,East Asia & Pacific,Melanesia,problemas significativos,12100
+2014,Maldivas,MDV,66.89,108,South Asia,Southern Asia,problemas significativos,17600
+2014,República Centroafricana,CAF,66.87,109,Sub-Saharan Africa,Middle Africa,problemas significativos,823
+2014,Uganda,UGA,66.71,110,Sub-Saharan Africa,Eastern Africa,problemas significativos,2040
+2014,Brasil,BRA,65.97,111,Latin America & Caribbean,South America,problemas significativos,15800
+2014,Nigeria,NGA,65.76,112,Sub-Saharan Africa,Western Africa,problemas significativos,5520
+2014,Catar,QAT,65.68,113,Middle East & North Africa,Western Asia,problemas significativos,95600
+2014,Montenegro,MNE,65.22,114,Europe & Central Asia,Southern Europe,problemas significativos,17700
+2014,Tayikistán,TJK,65.14,115,Europe & Central Asia,Central Asia,problemas significativos,2880
+2014,Venezuela,VEN,64.63,116,Latin America & Caribbean,South America,situación difícil,23600
+2014,Brunéi,BRN,64.55,117,East Asia & Pacific,South-Eastern Asia,situación difícil,64200
+2014,Emiratos Árabes Unidos,ARE,63.97,118,Middle East & North Africa,Western Asia,situación difícil,62500
+2014,Sudán del Sur,SSD,63.95,119,Sub-Saharan Africa,Northern Africa,situación difícil,2460
+2014,Nepal,NPL,63.84,120,South Asia,Southern Asia,situación difícil,3220
+2014,Argelia,DZA,63.74,121,Middle East & North Africa,Northern Africa,situación difícil,11500
+2014,Malí,MLI,63.71,122,Sub-Saharan Africa,Western Africa,situación difícil,2080
+2014,República de Macedonia del Norte,MKD,63.57,123,Europe & Central Asia,Southern Europe,situación difícil,14600
+2014,Angola,AGO,63.5,124,Sub-Saharan Africa,Middle Africa,situación difícil,8240
+2014,Guatemala,GTM,63.39,125,Latin America & Caribbean,Central America,situación difícil,7940
+2014,Colombia,COL,63.32,126,Latin America & Caribbean,South America,situación difícil,13900
+2014,Ucrania,UKR,63.07,127,Europe & Central Asia,Eastern Europe,situación difícil,12400
+2014,Afganistán,AFG,62.93,128,South Asia,Southern Asia,situación difícil,2100
+2014,Honduras,HND,62.86,129,Latin America & Caribbean,Central America,situación difícil,5180
+2014,Tailandia,THA,62.06,130,East Asia & Pacific,South-Eastern Asia,situación difícil,15900
+2014,Camerún,CMR,61.87,131,Sub-Saharan Africa,Middle Africa,situación difícil,3470
+2014,Indonesia,IDN,61.85,132,East Asia & Pacific,South-Eastern Asia,situación difícil,9800
+2014,Túnez,TUN,61.31,133,Middle East & North Africa,Northern Africa,situación difícil,11100
+2014,Omán,OMN,61.17,134,Middle East & North Africa,Western Asia,situación difícil,34900
+2014,Zimbabue,ZWE,60.81,135,Sub-Saharan Africa,Eastern Africa,situación difícil,3700
+2014,Marruecos,MAR,60.28,136,Middle East & North Africa,Northern Africa,situación difícil,6910
+2014,Libia,LBY,60.16,137,Middle East & North Africa,Northern Africa,situación difícil,12200
+2014,Palestina,PSE,59.89,138,Middle East & North Africa,Western Asia,situación difícil,5970
+2014,Chad,TCD,59.78,139,Sub-Saharan Africa,Middle Africa,situación difícil,1870
+2014,India,IND,59.66,140,South Asia,Southern Asia,situación difícil,5120
+2014,Jordania,JOR,59.58,141,Middle East & North Africa,Western Asia,situación difícil,10300
+2014,Burundi,BDI,59.5,142,Sub-Saharan Africa,Eastern Africa,situación difícil,886
+2014,Etiopía,ETH,59.42,143,Sub-Saharan Africa,Eastern Africa,situación difícil,1660
+2014,Camboya,KHM,59.03,144,East Asia & Pacific,South-Eastern Asia,situación difícil,3360
+2014,Birmania,MMR,58.57,145,East Asia & Pacific,South-Eastern Asia,situación difícil,3570
+2014,Bangladés,BGD,57.42,146,South Asia,Southern Asia,situación difícil,3510
+2014,Malasia,MYS,57.27,147,East Asia & Pacific,South-Eastern Asia,situación difícil,23900
+2014,Rusia,RUS,57.22,148,Europe & Central Asia,Eastern Europe,situación difícil,26100
+2014,Filipinas,PHL,56.31,149,East Asia & Pacific,South-Eastern Asia,situación difícil,6970
+2014,Singapur,SGP,55.71,150,East Asia & Pacific,South-Eastern Asia,situación difícil,88000
+2014,RD Congo,COD,55.36,151,Sub-Saharan Africa,Middle Africa,situación difícil,1030
+2014,México,MEX,54.96,152,Latin America & Caribbean,Central America,situación difícil,18900
+2014,Irak,IRQ,54.56,153,Middle East & North Africa,Western Asia,situación difícil,9820
+2014,Turquía,TUR,54.13,154,Europe & Central Asia,Western Asia,situación difícil,24900
+2014,Gambia,GMB,53.58,155,Sub-Saharan Africa,Western Africa,situación difícil,2040
+2014,Esuatini,SWZ,53.24,156,Sub-Saharan Africa,Southern Africa,situación difícil,8190
+2014,Belarús,BLR,52.18,157,Europe & Central Asia,Eastern Europe,situación difícil,19100
+2014,Pakistán,PAK,48.54,158,South Asia,Southern Asia,situación difícil,4170
+2014,Egipto,EGY,48.11,159,Middle East & North Africa,Northern Africa,situación difícil,10400
+2014,Azerbaiyán,AZE,47.13,160,Europe & Central Asia,Western Asia,situación difícil,14900
+2014,Kazajistán,KAZ,45.06,161,Europe & Central Asia,Central Asia,situación difícil,24400
+2014,Ruanda,RWA,43.43,162,Sub-Saharan Africa,Eastern Africa,situación muy grave,1780
+2014,Baréin,BHR,41.74,163,Middle East & North Africa,Western Asia,situación muy grave,48200
+2014,Arabia Saudita,SAU,41.7,164,Middle East & North Africa,Western Asia,situación muy grave,48200
+2014,Sri Lanka,LKA,40.87,165,South Asia,Southern Asia,situación muy grave,11400
+2014,Uzbekistán,UZB,38.99,166,Europe & Central Asia,Central Asia,situación muy grave,6080
+2014,Yemen,YEM,32.74,167,Middle East & North Africa,Western Asia,situación muy grave,4710
+2014,Guinea Ecuatorial,GNQ,32.05,168,Sub-Saharan Africa,Middle Africa,situación muy grave,32400
+2014,Yibuti,DJI,29.66,169,Middle East & North Africa,Eastern Africa,situación muy grave,4240
+2014,Cuba,CUB,29.08,170,Latin America & Caribbean,Caribbean,situación muy grave,8870
+2014,Laos,LAO,28.78,171,East Asia & Pacific,South-Eastern Asia,situación muy grave,6190
+2014,Sudán,SDN,28.12,172,Sub-Saharan Africa,Northern Africa,situación muy grave,4650
+2014,Irán,IRN,27.71,173,Middle East & North Africa,Southern Asia,situación muy grave,13000
+2014,Vietnam,VNM,27.64,174,East Asia & Pacific,South-Eastern Asia,situación muy grave,6100
+2014,China,CHN,27.09,175,East Asia & Pacific,Eastern Asia,situación muy grave,11900
+2014,Somalia,SOM,26.81,176,Sub-Saharan Africa,Eastern Africa,situación muy grave,918
+2014,Siria,SYR,22.96,177,Middle East & North Africa,Western Asia,situación muy grave,4110
+2014,Turkmenistán,TKM,19.19,178,Europe & Central Asia,Central Asia,situación muy grave,12400
+2014,Corea del Norte,PRK,18.04,179,East Asia & Pacific,Eastern Asia,situación muy grave,2080
+2014,Eritrea,ERI,15.17,180,Sub-Saharan Africa,Eastern Africa,situación muy grave,1360
+2015,Finlandia,FIN,92.48,1,Europe & Central Asia,Northern Europe,buena situación,45100
+2015,Noruega,NOR,92.25,2,Europe & Central Asia,Northern Europe,buena situación,63000
+2015,Dinamarca,DNK,91.76,3,Europe & Central Asia,Northern Europe,buena situación,52900
+2015,Países Bajos,NLD,90.78,4,Europe & Central Asia,Western Europe,buena situación,53000
+2015,Suecia,SWE,90.53,5,Europe & Central Asia,Northern Europe,buena situación,50900
+2015,Nueva Zelanda,NZL,89.94,6,East Asia & Pacific,Australia and New Zealand,buena situación,41100
+2015,Austria,AUT,89.15,7,Europe & Central Asia,Western Europe,buena situación,52900
+2015,Canadá,CAN,89.01,8,North America,Northern America,buena situación,47500
+2015,Jamaica,JAM,88.82,9,Latin America & Caribbean,Caribbean,buena situación,9470
+2015,Estonia,EST,88.81,10,Europe & Central Asia,Northern Europe,buena situación,31000
+2015,Irlanda,IRL,88.8,11,Europe & Central Asia,Northern Europe,buena situación,71500
+2015,Alemania,DEU,88.53,12,Europe & Central Asia,Western Europe,buena situación,51200
+2015,República Checa,CZE,88.38,13,Europe & Central Asia,Eastern Europe,buena situación,36200
+2015,Eslovaquia,SVK,88.34,14,Europe & Central Asia,Eastern Europe,buena situación,28700
+2015,Bélgica,BEL,88.02,15,Europe & Central Asia,Western Europe,buena situación,49500
+2015,Costa Rica,CRI,87.74,16,Latin America & Caribbean,Central America,buena situación,19100
+2015,Namibia,"NAM",87.5,17,Sub-Saharan Africa,Southern Africa,buena situación,10700
+2015,Polonia,POL,87.29,18,Europe & Central Asia,Eastern Europe,buena situación,27800
+2015,Luxemburgo,LUX,86.39,19,Europe & Central Asia,Western Europe,buena situación,113000
+2015,Suiza,CHE,86.15,20,Europe & Central Asia,Western Europe,buena situación,68000
+2015,Islandia,ISL,86.13,21,Europe & Central Asia,Northern Europe,buena situación,52100
+2015,Ghana,GHA,84.5,22,Sub-Saharan Africa,Western Africa,situación más bien buena,4790
+2015,Uruguay,URY,84.06,23,Latin America & Caribbean,South America,situación más bien buena,22400
+2015,Chipre,CYP,83.48,24,Europe & Central Asia,Western Asia,situación más bien buena,34500
+2015,Australia,AUS,82.97,25,East Asia & Pacific,Australia and New Zealand,situación más bien buena,47600
+2015,Portugal,PRT,82.89,26,Europe & Central Asia,Southern Europe,situación más bien buena,31100
+2015,Liechtenstein,LIE,82.33,27,Europe & Central Asia,Western Europe,situación más bien buena,NA
+2015,Letonia,LVA,81.88,28,Europe & Central Asia,Northern Europe,situación más bien buena,26600
+2015,Surinam,SUR,81.8,29,Latin America & Caribbean,South America,situación más bien buena,19300
+2015,Belice,BLZ,81.46,30,Latin America & Caribbean,Central America,situación más bien buena,7360
+2015,Lituania,LTU,81.2,31,Europe & Central Asia,Northern Europe,situación más bien buena,30700
+2015,Andorra,AND,80.13,32,Europe & Central Asia,Southern Europe,situación más bien buena,52700
+2015,España,ESP,80.05,33,Europe & Central Asia,Southern Europe,situación más bien buena,37400
+2015,Reino Unido,GBR,80,34,Europe & Central Asia,Northern Europe,situación más bien buena,45000
+2015,Eslovenia,SVN,79.45,35,Europe & Central Asia,Southern Europe,situación más bien buena,33800
+2015,Cabo Verde,CPV,79.31,36,Sub-Saharan Africa,Western Africa,situación más bien buena,6270
+2015,OECS,XCD,78.98,37,NA,NA,situación más bien buena,NA
+2015,Francia,FRA,78.85,38,Europe & Central Asia,Western Europe,situación más bien buena,43300
+2015,Sudáfrica,ZAF,77.94,39,Sub-Saharan Africa,Southern Africa,situación más bien buena,14000
+2015,Samoa,WSM,77.68,40,East Asia & Pacific,Polynesia,situación más bien buena,6000
+2015,Trinidad y Tobago,TTO,77.61,41,Latin America & Caribbean,Caribbean,situación más bien buena,29100
+2015,Botsuana,BWA,77.09,42,Sub-Saharan Africa,Southern Africa,situación más bien buena,14900
+2015,Chile,CHL,77,43,Latin America & Caribbean,South America,situación más bien buena,24400
+2015,Tonga,TON,76.63,44,East Asia & Pacific,Polynesia,situación más bien buena,5940
+2015,El Salvador,SLV,76.34,45,Latin America & Caribbean,Central America,situación más bien buena,8140
+2015,Burkina Faso,BFA,76.21,46,Sub-Saharan Africa,Western Africa,situación más bien buena,1930
+2015,Niger,NER,76.15,47,Sub-Saharan Africa,Western Africa,situación más bien buena,1130
+2015,Malta,MLT,75.84,48,Middle East & North Africa,Southern Europe,situación más bien buena,39800
+2015,Estados Unidos,USA,75.59,49,North America,Northern America,situación más bien buena,58500
+2015,Comoras,COM,75.48,50,Sub-Saharan Africa,Eastern Africa,situación más bien buena,2960
+2015,Taiwán,TWN,75.17,51,East Asia & Pacific,Eastern Asia,situación más bien buena,48400
+2015,Rumania,ROU,75.1,52,Europe & Central Asia,Eastern Europe,situación más bien buena,23900
+2015,Haití,HTI,74.92,53,Latin America & Caribbean,Caribbean,problemas significativos,3100
+2015,Mongolia,MNG,74.75,54,East Asia & Pacific,Eastern Asia,problemas significativos,11000
+2015,Mauritania,MRT,74.73,55,Sub-Saharan Africa,Western Africa,problemas significativos,5020
+2015,Papúa Nueva Guinea,PNG,74.13,56,East Asia & Pacific,Melanesia,problemas significativos,4080
+2015,Argentina,ARG,73.89,57,Latin America & Caribbean,South America,problemas significativos,23900
+2015,Croacia,HRV,73.88,58,Europe & Central Asia,Southern Europe,problemas significativos,24900
+2015,Malaui,MWI,73.59,59,Sub-Saharan Africa,Eastern Africa,problemas significativos,1460
+2015,Corea del Sur,KOR,73.45,60,East Asia & Pacific,Eastern Asia,problemas significativos,38800
+2015,Japón,JPN,73.05,61,East Asia & Pacific,Eastern Asia,problemas significativos,40400
+2015,Guyana,GUY,72.79,62,Latin America & Caribbean,South America,problemas significativos,11300
+2015,República Dominicana,DOM,72.69,63,Latin America & Caribbean,Caribbean,problemas significativos,15300
+2015,Madagascar,MDG,72.57,64,Sub-Saharan Africa,Eastern Africa,problemas significativos,1550
+2015,Hungría,HUN,72.56,65,Europe & Central Asia,Eastern Europe,problemas significativos,27500
+2015,Bosnia-Herzegovina,BIH,72.49,66,Europe & Central Asia,Southern Europe,problemas significativos,12600
+2015,Serbia,SRB,72.34,67,Europe & Central Asia,Southern Europe,problemas significativos,15600
+2015,Mauricio,MUS,72.31,68,Sub-Saharan Africa,Eastern Africa,problemas significativos,19900
+2015,Georgia,GEO,72.3,69,Europe & Central Asia,Western Asia,problemas significativos,12600
+2015,Hong Kong,HKG,72.24,70,East Asia & Pacific,Eastern Asia,problemas significativos,57200
+2015,Senegal,SEN,72.23,71,Sub-Saharan Africa,Western Africa,problemas significativos,2970
+2015,Moldavia,MDA,72.15,72,Europe & Central Asia,Eastern Europe,problemas significativos,10400
+2015,Italia,ITA,72.06,73,Europe & Central Asia,Southern Europe,problemas significativos,40200
+2015,Nicaragua,NIC,72.06,74,Latin America & Caribbean,Central America,problemas significativos,5630
+2015,Tanzania,TZA,71.91,75,Sub-Saharan Africa,Eastern Africa,problemas significativos,2350
+2015,Chipre Norte,CTU,71.67,76,NA,NA,problemas significativos,NA
+2015,Lesoto,LSO,71.64,77,Sub-Saharan Africa,Southern Africa,problemas significativos,2700
+2015,Armenia,ARM,71.57,78,Europe & Central Asia,Western Asia,problemas significativos,11300
+2015,Sierra Leona,SLE,71.53,79,Sub-Saharan Africa,Western Africa,problemas significativos,1540
+2015,Togo,TGO,71.5,80,Sub-Saharan Africa,Western Africa,problemas significativos,1920
+2015,Guinea-Bisáu,GNB,71.3,81,Sub-Saharan Africa,Western Africa,problemas significativos,1800
+2015,Albania,ALB,71.23,82,Europe & Central Asia,Southern Europe,problemas significativos,11900
+2015,Panamá,PAN,71.02,83,Latin America & Caribbean,Central America,problemas significativos,28400
+2015,Benín,BEN,70.76,84,Sub-Saharan Africa,Western Africa,problemas significativos,2950
+2015,Mozambique,MOZ,70.02,85,Sub-Saharan Africa,Eastern Africa,problemas significativos,1260
+2015,Costa de Marfil,CIV,69.55,86,Sub-Saharan Africa,Western Africa,problemas significativos,3740
+2015,Kosovo,XKO,69.37,87,NA,NA,problemas significativos,NA
+2015,Kirguistán,KGZ,69.31,88,Europe & Central Asia,Central Asia,problemas significativos,4810
+2015,Liberia,LBR,69.22,89,Sub-Saharan Africa,Western Africa,problemas significativos,1630
+2015,Kuwait,KWT,69.16,90,Middle East & North Africa,Western Asia,problemas significativos,54800
+2015,Grecia,GRC,68.99,91,Europe & Central Asia,Southern Europe,problemas significativos,28300
+2015,Peru,PER,68.79,92,Latin America & Caribbean,South America,problemas significativos,12100
+2015,Fiyi,FJI,68.72,93,East Asia & Pacific,Melanesia,problemas significativos,12600
+2015,Bolivia,BOL,68.71,94,Latin America & Caribbean,South America,problemas significativos,7980
+2015,República Gabonesa,GAB,68.62,95,Sub-Saharan Africa,Middle Africa,problemas significativos,15500
+2015,Seychelles,SYC,68.45,96,Sub-Saharan Africa,Eastern Africa,problemas significativos,25600
+2015,Uganda,UGA,68.35,97,Sub-Saharan Africa,Eastern Africa,problemas significativos,2070
+2015,Líbano,LBN,68.19,98,Middle East & North Africa,Western Asia,problemas significativos,16400
+2015,Brasil,BRA,68.07,99,Latin America & Caribbean,South America,problemas significativos,15100
+2015,Kenia,KEN,67.93,100,Sub-Saharan Africa,Eastern Africa,problemas significativos,4080
+2015,Israel,ISR,67.91,101,Middle East & North Africa,Western Asia,problemas significativos,37300
+2015,Guinea,GIN,67.44,102,Sub-Saharan Africa,Western Africa,problemas significativos,2090
+2015,Timor Oriental,TLS,67.37,103,East Asia & Pacific,South-Eastern Asia,problemas significativos,3300
+2015,Bután,BTN,67.35,104,South Asia,Southern Asia,problemas significativos,10100
+2015,Nepal,NPL,67.29,105,South Asia,Southern Asia,problemas significativos,3330
+2015,Bulgaria,BGR,67.09,106,Europe & Central Asia,Eastern Europe,problemas significativos,20000
+2015,República del Congo,COG,67,107,Sub-Saharan Africa,Middle Africa,problemas significativos,5220
+2015,Ecuador,ECU,66.35,108,Latin America & Caribbean,South America,problemas significativos,11900
+2015,Paraguay,PRY,66.26,109,Latin America & Caribbean,South America,problemas significativos,11800
+2015,República Centroafricana,CAF,66.16,110,Sub-Saharan Africa,Middle Africa,problemas significativos,853
+2015,Nigeria,NGA,65.91,111,Sub-Saharan Africa,Western Africa,problemas significativos,5520
+2015,Maldivas,MDV,65.68,112,South Asia,Southern Asia,problemas significativos,17300
+2015,Zambia,ZMB,65.65,113,Sub-Saharan Africa,Eastern Africa,problemas significativos,3440
+2015,Montenegro,MNE,65.37,114,Europe & Central Asia,Southern Europe,problemas significativos,18300
+2015,Catar,QAT,64.65,115,Middle East & North Africa,Western Asia,situación difícil,96000
+2015,Tayikistán,TJK,63.81,116,Europe & Central Asia,Central Asia,situación difícil,2980
+2015,República de Macedonia del Norte,MKD,63.74,117,Europe & Central Asia,Southern Europe,situación difícil,15100
+2015,Malí,MLI,63.67,118,Sub-Saharan Africa,Western Africa,situación difícil,2140
+2015,Argelia,DZA,63.37,119,Middle East & North Africa,Northern Africa,situación difícil,11700
+2015,Emiratos Árabes Unidos,ARE,63.27,120,Middle East & North Africa,Western Asia,situación difícil,65300
+2015,Brunéi,BRN,63.24,121,East Asia & Pacific,South-Eastern Asia,situación difícil,63100
+2015,Afganistán,AFG,62.56,122,South Asia,Southern Asia,situación difícil,2070
+2015,Angola,AGO,62.16,123,Sub-Saharan Africa,Middle Africa,situación difícil,8040
+2015,Guatemala,GTM,62.08,124,Latin America & Caribbean,Central America,situación difícil,8130
+2015,Sudán del Sur,SSD,61.96,125,Sub-Saharan Africa,Northern Africa,situación difícil,2160
+2015,Túnez,TUN,61.32,126,Middle East & North Africa,Northern Africa,situación difícil,11100
+2015,Omán,OMN,61.17,127,Middle East & North Africa,Western Asia,situación difícil,34600
+2015,Colombia,COL,60.92,128,Latin America & Caribbean,South America,situación difícil,14100
+2015,Ucrania,UKR,60.9,129,Europe & Central Asia,Eastern Europe,situación difícil,11200
+2015,Marruecos,MAR,60.81,130,Middle East & North Africa,Northern Africa,situación difícil,7130
+2015,Zimbabue,ZWE,60.81,131,Sub-Saharan Africa,Eastern Africa,situación difícil,3710
+2015,Honduras,HND,60.73,132,Latin America & Caribbean,Central America,situación difícil,5280
+2015,Camerún,CMR,60.37,133,Sub-Saharan Africa,Middle Africa,situación difícil,3570
+2015,Tailandia,THA,59.93,134,East Asia & Pacific,South-Eastern Asia,situación difícil,16300
+2015,Chad,TCD,59.83,135,Sub-Saharan Africa,Middle Africa,situación difícil,1860
+2015,India,IND,59.51,136,South Asia,Southern Asia,situación difícil,5460
+2015,Venezuela,VEN,59.39,137,Latin America & Caribbean,South America,situación difícil,21900
+2015,Indonesia,IDN,59.25,138,East Asia & Pacific,South-Eastern Asia,situación difícil,10200
+2015,Camboya,KHM,59.01,139,East Asia & Pacific,South-Eastern Asia,situación difícil,3540
+2015,Palestina,PSE,58.99,140,Middle East & North Africa,Western Asia,situación difícil,6050
+2015,Filipinas,PHL,58.81,141,East Asia & Pacific,South-Eastern Asia,situación difícil,7300
+2015,Etiopía,ETH,58.17,142,Sub-Saharan Africa,Eastern Africa,situación difícil,1780
+2015,Jordania,JOR,57.93,143,Middle East & North Africa,Western Asia,situación difícil,10100
+2015,Birmania,MMR,57.92,144,East Asia & Pacific,South-Eastern Asia,situación difícil,3660
+2015,Burundi,BDI,57.07,145,Sub-Saharan Africa,Eastern Africa,situación difícil,825
+2015,Bangladés,BGD,57.05,146,South Asia,Southern Asia,situación difícil,3700
+2015,Malasia,MYS,56.71,147,East Asia & Pacific,South-Eastern Asia,situación difícil,24800
+2015,México,MEX,56.31,148,Latin America & Caribbean,Central America,situación difícil,19300
+2015,Turquía,TUR,55.84,149,Europe & Central Asia,Western Asia,situación difícil,26000
+2015,RD Congo,COD,55.69,150,Sub-Saharan Africa,Middle Africa,situación difícil,1070
+2015,Gambia,GMB,55.5,151,Sub-Saharan Africa,Western Africa,situación difícil,2060
+2015,Rusia,RUS,55.03,152,Europe & Central Asia,Eastern Europe,situación difícil,25500
+2015,Singapur,SGP,54.13,153,East Asia & Pacific,South-Eastern Asia,situación difícil,89500
+2015,Libia,LBY,54.01,154,Middle East & North Africa,Northern Africa,situación difícil,11000
+2015,Esuatini,SWZ,52.72,155,Sub-Saharan Africa,Southern Africa,situación difícil,8310
+2015,Irak,IRQ,52.24,156,Middle East & North Africa,Western Asia,situación difícil,9950
+2015,Belarús,BLR,52.02,157,Europe & Central Asia,Eastern Europe,situación difícil,18400
+2015,Egipto,EGY,49.83,158,Middle East & North Africa,Northern Africa,situación difícil,10600
+2015,Pakistán,PAK,49.54,159,South Asia,Southern Asia,situación difícil,4280
+2015,Kazajistán,KAZ,46.54,160,Europe & Central Asia,Central Asia,situación difícil,24300
+2015,Ruanda,RWA,43.43,161,Sub-Saharan Africa,Eastern Africa,situación muy grave,1890
+2015,Azerbaiyán,AZE,41.59,162,Europe & Central Asia,Western Asia,situación muy grave,14900
+2015,Baréin,BHR,41.31,163,Middle East & North Africa,Western Asia,situación muy grave,48100
+2015,Arabia Saudita,SAU,40.59,164,Middle East & North Africa,Western Asia,situación muy grave,48900
+2015,Sri Lanka,LKA,39.72,165,South Asia,Southern Asia,situación muy grave,11900
+2015,Uzbekistán,UZB,38.86,166,Europe & Central Asia,Central Asia,situación muy grave,6400
+2015,Guinea Ecuatorial,GNQ,33.77,167,Sub-Saharan Africa,Middle Africa,situación muy grave,28300
+2015,Yemen,YEM,33.64,168,Middle East & North Africa,Western Asia,situación muy grave,3310
+2015,Cuba,CUB,29.79,169,Latin America & Caribbean,Caribbean,situación muy grave,9170
+2015,Yibuti,DJI,28.96,170,Middle East & North Africa,Eastern Africa,situación muy grave,4490
+2015,Laos,LAO,28.75,171,East Asia & Pacific,South-Eastern Asia,situación muy grave,6540
+2015,Somalia,SOM,27.69,172,Sub-Saharan Africa,Eastern Africa,situación muy grave,1030
+2015,Irán,IRN,27.68,173,Middle East & North Africa,Southern Asia,situación muy grave,12700
+2015,Sudán,SDN,27.66,174,Sub-Saharan Africa,Northern Africa,situación muy grave,4630
+2015,Vietnam,VNM,27.37,175,East Asia & Pacific,South-Eastern Asia,situación muy grave,6440
+2015,China,CHN,26.45,176,East Asia & Pacific,Eastern Asia,situación muy grave,12600
+2015,Siria,SYR,22.71,177,Middle East & North Africa,Western Asia,situación muy grave,3540
+2015,Turkmenistán,TKM,19.17,178,Europe & Central Asia,Central Asia,situación muy grave,13000
+2015,Corea del Norte,PRK,16.75,179,East Asia & Pacific,Eastern Asia,situación muy grave,2050
+2015,Eritrea,ERI,15.14,180,Sub-Saharan Africa,Eastern Africa,situación muy grave,1410
+2016,Finlandia,FIN,91.41,1,Europe & Central Asia,Northern Europe,buena situación,46200
+2016,Países Bajos,NLD,91.24,2,Europe & Central Asia,Western Europe,buena situación,53800
+2016,Noruega,NOR,91.21,3,Europe & Central Asia,Northern Europe,buena situación,63100
+2016,Dinamarca,DNK,91.11,4,Europe & Central Asia,Northern Europe,buena situación,54200
+2016,Nueva Zelanda,NZL,89.99,5,East Asia & Pacific,Australia and New Zealand,buena situación,41700
+2016,Costa Rica,CRI,88.9,6,Latin America & Caribbean,Central America,buena situación,19700
+2016,Suiza,CHE,88.24,7,Europe & Central Asia,Western Europe,buena situación,68700
+2016,Suecia,SWE,87.67,8,Europe & Central Asia,Northern Europe,buena situación,51300
+2016,Irlanda,IRL,87.6,9,Europe & Central Asia,Northern Europe,buena situación,72200
+2016,Jamaica,JAM,87.55,10,Latin America & Caribbean,Caribbean,buena situación,9550
+2016,Austria,AUT,86.82,11,Europe & Central Asia,Western Europe,buena situación,53300
+2016,Eslovaquia,SVK,86.74,12,Europe & Central Asia,Eastern Europe,buena situación,29200
+2016,Bélgica,BEL,85.82,13,Europe & Central Asia,Western Europe,buena situación,49800
+2016,Estonia,EST,85.69,14,Europe & Central Asia,Northern Europe,buena situación,32000
+2016,Luxemburgo,LUX,85.57,15,Europe & Central Asia,Western Europe,buena situación,116000
+2016,Alemania,DEU,85.2,16,Europe & Central Asia,Western Europe,buena situación,51900
+2016,Namibia,"NAM",84.85,17,Sub-Saharan Africa,Southern Africa,situación más bien buena,10500
+2016,Canadá,CAN,84.74,18,North America,Northern America,situación más bien buena,47500
+2016,Islandia,ISL,84.7,19,Europe & Central Asia,Northern Europe,situación más bien buena,54700
+2016,Uruguay,URY,84.12,20,Latin America & Caribbean,South America,situación más bien buena,22700
+2016,República Checa,CZE,83.34,21,Europe & Central Asia,Eastern Europe,situación más bien buena,37000
+2016,Surinam,SUR,83.3,22,Latin America & Caribbean,South America,situación más bien buena,18200
+2016,Portugal,PRT,82.73,23,Europe & Central Asia,Southern Europe,situación más bien buena,31800
+2016,Letonia,LVA,82.62,24,Europe & Central Asia,Northern Europe,situación más bien buena,27500
+2016,Australia,AUS,82.16,25,East Asia & Pacific,Australia and New Zealand,situación más bien buena,48100
+2016,Ghana,GHA,82.05,26,Sub-Saharan Africa,Western Africa,situación más bien buena,4840
+2016,Chipre,CYP,81.74,27,Europe & Central Asia,Western Asia,situación más bien buena,36500
+2016,Liechtenstein,LIE,81.64,28,Europe & Central Asia,Western Europe,situación más bien buena,NA
+2016,Samoa,WSM,81.2,29,East Asia & Pacific,Polynesia,situación más bien buena,6450
+2016,OECS,XCD,81.09,30,NA,NA,situación más bien buena,NA
+2016,Chile,CHL,80.77,31,Latin America & Caribbean,South America,situación más bien buena,24500
+2016,Cabo Verde,CPV,80.18,32,Sub-Saharan Africa,Western Africa,situación más bien buena,6480
+2016,Andorra,AND,80.13,33,Europe & Central Asia,Southern Europe,situación más bien buena,54500
+2016,España,ESP,80.08,34,Europe & Central Asia,Southern Europe,situación más bien buena,38500
+2016,Lituania,LTU,80.05,35,Europe & Central Asia,Northern Europe,situación más bien buena,31900
+2016,Belice,BLZ,79.39,36,Latin America & Caribbean,Central America,situación más bien buena,7210
+2016,Tonga,TON,78.76,37,East Asia & Pacific,Polynesia,situación más bien buena,6310
+2016,Reino Unido,GBR,78.3,38,Europe & Central Asia,Northern Europe,situación más bien buena,45700
+2016,Sudáfrica,ZAF,78.08,39,Sub-Saharan Africa,Southern Africa,situación más bien buena,13900
+2016,Eslovenia,SVN,77.74,40,Europe & Central Asia,Southern Europe,situación más bien buena,34900
+2016,Estados Unidos,USA,77.51,41,North America,Northern America,situación más bien buena,59100
+2016,Burkina Faso,BFA,77.34,42,Sub-Saharan Africa,Western Africa,situación más bien buena,1980
+2016,Botsuana,BWA,77.09,43,Sub-Saharan Africa,Southern Africa,situación más bien buena,15700
+2016,Trinidad y Tobago,TTO,76.71,44,Latin America & Caribbean,Caribbean,situación más bien buena,27300
+2016,Francia,FRA,76.17,45,Europe & Central Asia,Western Europe,situación más bien buena,43700
+2016,Malta,MLT,76.16,46,Middle East & North Africa,Southern Europe,situación más bien buena,40500
+2016,Polonia,POL,76.11,47,Europe & Central Asia,Eastern Europe,situación más bien buena,28700
+2016,Mauritania,MRT,75.97,48,Sub-Saharan Africa,Western Africa,situación más bien buena,4950
+2016,Rumania,ROU,75.71,49,Europe & Central Asia,Eastern Europe,situación más bien buena,25100
+2016,Comoras,COM,75.67,50,Sub-Saharan Africa,Eastern Africa,situación más bien buena,2990
+2016,Taiwán,TWN,75.63,51,East Asia & Pacific,Eastern Asia,situación más bien buena,49000
+2016,Niger,NER,75.38,52,Sub-Saharan Africa,Western Africa,situación más bien buena,1150
+2016,Haití,HTI,75.34,53,Latin America & Caribbean,Caribbean,situación más bien buena,3120
+2016,Argentina,ARG,74.91,54,Latin America & Caribbean,South America,problemas significativos,23200
+2016,Papúa Nueva Guinea,PNG,74.19,55,East Asia & Pacific,Melanesia,problemas significativos,4220
+2016,Madagascar,MDG,72.96,56,Sub-Saharan Africa,Eastern Africa,problemas significativos,1570
+2016,Guyana,GUY,72.93,57,Latin America & Caribbean,South America,problemas significativos,11600
+2016,El Salvador,SLV,72.8,58,Latin America & Caribbean,Central America,problemas significativos,8310
+2016,Serbia,SRB,72.4,59,Europe & Central Asia,Southern Europe,problemas significativos,16200
+2016,Mongolia,MNG,72.39,60,East Asia & Pacific,Eastern Asia,problemas significativos,11000
+2016,Mauricio,MUS,72.31,61,Sub-Saharan Africa,Eastern Africa,problemas significativos,20600
+2016,República Dominicana,DOM,72.1,62,Latin America & Caribbean,Caribbean,problemas significativos,16200
+2016,Croacia,HRV,72.09,63,Europe & Central Asia,Southern Europe,problemas significativos,25900
+2016,Georgia,GEO,72.04,64,Europe & Central Asia,Western Asia,problemas significativos,13000
+2016,Senegal,SEN,72.01,65,Sub-Saharan Africa,Western Africa,problemas significativos,3070
+2016,Malaui,MWI,71.88,66,Sub-Saharan Africa,Eastern Africa,problemas significativos,1450
+2016,Hungría,HUN,71.83,67,Europe & Central Asia,Eastern Europe,problemas significativos,28200
+2016,Bosnia-Herzegovina,BIH,71.55,68,Europe & Central Asia,Southern Europe,problemas significativos,13200
+2016,Hong Kong,HKG,71.5,69,East Asia & Pacific,Eastern Asia,problemas significativos,58100
+2016,Corea del Sur,KOR,71.42,70,East Asia & Pacific,Eastern Asia,problemas significativos,39800
+2016,Tanzania,TZA,71.35,71,Sub-Saharan Africa,Eastern Africa,problemas significativos,2440
+2016,Japón,JPN,71.33,72,East Asia & Pacific,Eastern Asia,problemas significativos,40800
+2016,Lesoto,LSO,71.22,73,Sub-Saharan Africa,Southern Africa,problemas significativos,2780
+2016,Armenia,ARM,71.21,74,Europe & Central Asia,Western Asia,problemas significativos,11300
+2016,Nicaragua,NIC,71.18,75,Latin America & Caribbean,Central America,problemas significativos,5810
+2016,Moldavia,MDA,71.17,76,Europe & Central Asia,Eastern Europe,problemas significativos,10900
+2016,Italia,ITA,71.07,77,Europe & Central Asia,Southern Europe,problemas significativos,40800
+2016,Benín,BEN,71.03,78,Sub-Saharan Africa,Western Africa,problemas significativos,2960
+2016,Guinea-Bisáu,GNB,70.97,79,Sub-Saharan Africa,Western Africa,problemas significativos,1860
+2016,Fiyi,FJI,70.63,80,East Asia & Pacific,Melanesia,problemas significativos,12800
+2016,Chipre Norte,CTU,70.46,81,NA,NA,problemas significativos,NA
+2016,Albania,ALB,70.08,82,Europe & Central Asia,Southern Europe,problemas significativos,12300
+2016,Sierra Leona,SLE,70.06,83,Sub-Saharan Africa,Western Africa,problemas significativos,1600
+2016,Peru,PER,70.01,84,Latin America & Caribbean,South America,problemas significativos,12400
+2016,Kirguistán,KGZ,69.84,85,Europe & Central Asia,Central Asia,problemas significativos,4910
+2016,Costa de Marfil,CIV,69.83,86,Sub-Saharan Africa,Western Africa,problemas significativos,4110
+2016,Mozambique,MOZ,69.75,87,Sub-Saharan Africa,Eastern Africa,problemas significativos,1270
+2016,Togo,TGO,69.69,88,Sub-Saharan Africa,Western Africa,problemas significativos,1980
+2016,Grecia,GRC,69.65,89,Europe & Central Asia,Southern Europe,problemas significativos,28200
+2016,Kosovo,XKO,69.5,90,NA,NA,problemas significativos,NA
+2016,Panamá,PAN,69.41,91,Latin America & Caribbean,Central America,problemas significativos,29300
+2016,Seychelles,SYC,69.4,92,Sub-Saharan Africa,Eastern Africa,problemas significativos,26400
+2016,Liberia,LBR,69.29,93,Sub-Saharan Africa,Western Africa,problemas significativos,1570
+2016,Bután,BTN,69.27,94,South Asia,Southern Asia,problemas significativos,10800
+2016,Kenia,KEN,68.84,95,Sub-Saharan Africa,Eastern Africa,problemas significativos,4150
+2016,Túnez,TUN,68.4,96,Middle East & North Africa,Northern Africa,problemas significativos,11100
+2016,Bolivia,BOL,68.22,97,Latin America & Caribbean,South America,problemas significativos,8200
+2016,Líbano,LBN,68.05,98,Middle East & North Africa,Western Asia,problemas significativos,16200
+2016,Timor Oriental,TLS,67.98,99,East Asia & Pacific,South-Eastern Asia,problemas significativos,3340
+2016,República Gabonesa,GAB,67.8,100,Sub-Saharan Africa,Middle Africa,problemas significativos,15400
+2016,Israel,ISR,67.42,101,Middle East & North Africa,Western Asia,problemas significativos,38200
+2016,Uganda,UGA,67.42,102,Sub-Saharan Africa,Eastern Africa,problemas significativos,2090
+2016,Kuwait,KWT,67.41,103,Middle East & North Africa,Western Asia,problemas significativos,54700
+2016,Brasil,BRA,67.38,104,Latin America & Caribbean,South America,problemas significativos,14500
+2016,Nepal,NPL,67.38,105,South Asia,Southern Asia,problemas significativos,3320
+2016,Montenegro,MNE,67.21,106,Europe & Central Asia,Southern Europe,problemas significativos,18800
+2016,Ucrania,UKR,67.07,107,Europe & Central Asia,Eastern Europe,problemas significativos,11500
+2016,Guinea,GIN,66.92,108,Sub-Saharan Africa,Western Africa,problemas significativos,2250
+2016,Ecuador,ECU,66.79,109,Latin America & Caribbean,South America,problemas significativos,11600
+2016,República Centroafricana,CAF,66.4,110,Sub-Saharan Africa,Middle Africa,problemas significativos,884
+2016,Paraguay,PRY,66.37,111,Latin America & Caribbean,South America,problemas significativos,12200
+2016,Maldivas,MDV,65.83,112,South Asia,Southern Asia,problemas significativos,17600
+2016,Bulgaria,BGR,65.54,113,Europe & Central Asia,Eastern Europe,problemas significativos,20700
+2016,Zambia,ZMB,64.92,114,Sub-Saharan Africa,Eastern Africa,situación difícil,3470
+2016,República del Congo,COG,64.16,115,Sub-Saharan Africa,Middle Africa,situación difícil,4540
+2016,Nigeria,NGA,64.1,116,Sub-Saharan Africa,Western Africa,situación difícil,5290
+2016,Catar,QAT,64.03,117,Middle East & North Africa,Western Asia,situación difícil,95600
+2016,República de Macedonia del Norte,MKD,63.91,118,Europe & Central Asia,Southern Europe,situación difícil,15600
+2016,Emiratos Árabes Unidos,ARE,63.27,119,Middle East & North Africa,Western Asia,situación difícil,66500
+2016,Afganistán,AFG,62.25,120,South Asia,Southern Asia,situación difícil,2060
+2016,Guatemala,GTM,61.97,121,Latin America & Caribbean,Central America,situación difícil,8210
+2016,Malí,MLI,60.17,122,Sub-Saharan Africa,Western Africa,situación difícil,2200
+2016,Angola,AGO,60.11,123,Sub-Saharan Africa,Middle Africa,situación difícil,7570
+2016,Zimbabue,ZWE,59.59,124,Sub-Saharan Africa,Eastern Africa,situación difícil,3680
+2016,Omán,OMN,59.57,125,Middle East & North Africa,Western Asia,situación difícil,34600
+2016,Camerún,CMR,59.47,126,Sub-Saharan Africa,Middle Africa,situación difícil,3630
+2016,Chad,TCD,59.41,127,Sub-Saharan Africa,Middle Africa,situación difícil,1690
+2016,Camboya,KHM,59.3,128,East Asia & Pacific,South-Eastern Asia,situación difícil,3730
+2016,Argelia,DZA,58.31,129,Middle East & North Africa,Northern Africa,situación difícil,11800
+2016,Indonesia,IDN,58.28,130,East Asia & Pacific,South-Eastern Asia,situación difícil,10500
+2016,Marruecos,MAR,57.36,131,Middle East & North Africa,Northern Africa,situación difícil,7110
+2016,Palestina,PSE,57.07,132,Middle East & North Africa,Western Asia,situación difícil,6440
+2016,India,IND,56.83,133,South Asia,Southern Asia,situación difícil,5850
+2016,Colombia,COL,55.89,134,Latin America & Caribbean,South America,situación difícil,14200
+2016,Jordania,JOR,55.51,135,Middle East & North Africa,Western Asia,situación difícil,10000
+2016,Tailandia,THA,55.47,136,East Asia & Pacific,South-Eastern Asia,situación difícil,16800
+2016,Honduras,HND,55.38,137,Latin America & Caribbean,Central America,situación difícil,5400
+2016,Filipinas,PHL,55.34,138,East Asia & Pacific,South-Eastern Asia,situación difícil,7710
+2016,Venezuela,VEN,55.23,139,Latin America & Caribbean,South America,situación difícil,17700
+2016,Sudán del Sur,SSD,55.13,140,Sub-Saharan Africa,Northern Africa,situación difícil,1900
+2016,Sri Lanka,LKA,55.04,141,South Asia,Southern Asia,situación difícil,12300
+2016,Etiopía,ETH,54.87,142,Sub-Saharan Africa,Eastern Africa,situación difícil,1900
+2016,Birmania,MMR,54.52,143,East Asia & Pacific,South-Eastern Asia,situación difícil,4020
+2016,Bangladés,BGD,54.06,144,South Asia,Southern Asia,situación difícil,3920
+2016,Gambia,GMB,53.47,145,Sub-Saharan Africa,Western Africa,situación difícil,2040
+2016,Malasia,MYS,53.43,146,East Asia & Pacific,South-Eastern Asia,situación difícil,25500
+2016,Pakistán,PAK,51.48,147,South Asia,Southern Asia,situación difícil,4420
+2016,Rusia,RUS,50.97,148,Europe & Central Asia,Eastern Europe,situación difícil,25500
+2016,México,MEX,50.67,149,Latin America & Caribbean,Central America,situación difícil,19500
+2016,Tayikistán,TJK,49.66,150,Europe & Central Asia,Central Asia,situación difícil,3110
+2016,Turquía,TUR,49.24,151,Europe & Central Asia,Western Asia,situación difícil,26400
+2016,RD Congo,COD,49.03,152,Sub-Saharan Africa,Middle Africa,situación difícil,1060
+2016,Esuatini,SWZ,47.63,153,Sub-Saharan Africa,Southern Africa,situación difícil,8320
+2016,Singapur,SGP,47.04,154,East Asia & Pacific,South-Eastern Asia,situación difícil,91300
+2016,Brunéi,BRN,46.15,155,East Asia & Pacific,South-Eastern Asia,situación difícil,60900
+2016,Burundi,BDI,45.9,156,Sub-Saharan Africa,Eastern Africa,situación difícil,795
+2016,Belarús,BLR,45.68,157,Europe & Central Asia,Eastern Europe,situación difícil,17900
+2016,Irak,IRQ,45.65,158,Middle East & North Africa,Western Asia,situación difícil,11000
+2016,Egipto,EGY,45.55,159,Middle East & North Africa,Northern Africa,situación difícil,10800
+2016,Kazajistán,KAZ,45.45,160,Europe & Central Asia,Central Asia,situación difícil,24200
+2016,Ruanda,RWA,45.39,161,Sub-Saharan Africa,Eastern Africa,situación difícil,1950
+2016,Baréin,BHR,45.14,162,Middle East & North Africa,Western Asia,situación difícil,47900
+2016,Azerbaiyán,AZE,42.11,163,Europe & Central Asia,Western Asia,situación muy grave,14200
+2016,Libia,LBY,42.11,164,Middle East & North Africa,Northern Africa,situación muy grave,10600
+2016,Arabia Saudita,SAU,40.28,165,Middle East & North Africa,Western Asia,situación muy grave,48600
+2016,Uzbekistán,UZB,38.85,166,Europe & Central Asia,Central Asia,situación muy grave,6660
+2016,Somalia,SOM,34.65,167,Sub-Saharan Africa,Eastern Africa,situación muy grave,1080
+2016,Guinea Ecuatorial,GNQ,33.53,168,Sub-Saharan Africa,Middle Africa,situación muy grave,24800
+2016,Irán,IRN,33.48,169,Middle East & North Africa,Southern Asia,situación muy grave,14200
+2016,Yemen,YEM,32.93,170,Middle East & North Africa,Western Asia,situación muy grave,2910
+2016,Cuba,CUB,29.77,171,Latin America & Caribbean,Caribbean,situación muy grave,9300
+2016,Yibuti,DJI,29.1,172,Middle East & North Africa,Eastern Africa,situación muy grave,4710
+2016,Laos,LAO,28.42,173,East Asia & Pacific,South-Eastern Asia,situación muy grave,6900
+2016,Sudán,SDN,27.47,174,Sub-Saharan Africa,Northern Africa,situación muy grave,4680
+2016,Vietnam,VNM,25.73,175,East Asia & Pacific,South-Eastern Asia,situación muy grave,6770
+2016,China,CHN,19.04,176,East Asia & Pacific,Eastern Asia,situación muy grave,13400
+2016,Siria,SYR,18.65,177,Middle East & North Africa,Western Asia,situación muy grave,3590
+2016,Turkmenistán,TKM,16.56,178,Europe & Central Asia,Central Asia,situación muy grave,13600
+2016,Corea del Norte,PRK,16.24,179,East Asia & Pacific,Eastern Asia,situación muy grave,2030
+2016,Eritrea,ERI,16.08,180,Sub-Saharan Africa,Eastern Africa,situación muy grave,1410
+2017,Noruega,NOR,92.4,1,Europe & Central Asia,Northern Europe,buena situación,64099.99999999999
+2017,Suecia,SWE,91.73,2,Europe & Central Asia,Northern Europe,buena situación,51900
+2017,Finlandia,FIN,91.08,3,Europe & Central Asia,Northern Europe,buena situación,47600
+2017,Dinamarca,DNK,89.64,4,Europe & Central Asia,Northern Europe,buena situación,55400
+2017,Países Bajos,NLD,88.72,5,Europe & Central Asia,Western Europe,buena situación,55100
+2017,Costa Rica,CRI,88.07,6,Latin America & Caribbean,Central America,buena situación,20300
+2017,Suiza,CHE,87.87,7,Europe & Central Asia,Western Europe,buena situación,69100
+2017,Jamaica,JAM,87.27,8,Latin America & Caribbean,Caribbean,buena situación,9600
+2017,Bélgica,BEL,87.25,9,Europe & Central Asia,Western Europe,buena situación,50400
+2017,Islandia,ISL,86.97,10,Europe & Central Asia,Northern Europe,buena situación,55600
+2017,Austria,AUT,86.53,11,Europe & Central Asia,Western Europe,buena situación,54200
+2017,Estonia,EST,86.45,12,Europe & Central Asia,Northern Europe,buena situación,33800
+2017,Nueva Zelanda,NZL,86.02,13,East Asia & Pacific,Australia and New Zealand,buena situación,42300
+2017,Irlanda,IRL,85.92,14,Europe & Central Asia,Northern Europe,buena situación,77700
+2017,Luxemburgo,LUX,85.28,15,Europe & Central Asia,Western Europe,buena situación,115000
+2017,Alemania,DEU,85.03,16,Europe & Central Asia,Western Europe,buena situación,53100
+2017,Eslovaquia,SVK,84.49,17,Europe & Central Asia,Eastern Europe,situación más bien buena,30100
+2017,Portugal,PRT,84.23,18,Europe & Central Asia,Southern Europe,situación más bien buena,33000
+2017,Australia,AUS,83.98,19,East Asia & Pacific,Australia and New Zealand,situación más bien buena,48400
+2017,Surinam,SUR,83.93,20,Latin America & Caribbean,South America,situación más bien buena,18300
+2017,Samoa,WSM,83.59,21,East Asia & Pacific,Polynesia,situación más bien buena,6490
+2017,Canadá,CAN,83.47,22,North America,Northern America,situación más bien buena,48300
+2017,República Checa,CZE,83.09,23,Europe & Central Asia,Eastern Europe,situación más bien buena,38800
+2017,Namibia,"NAM",82.92,24,Sub-Saharan Africa,Southern Africa,situación más bien buena,10200
+2017,Uruguay,URY,82.57,25,Latin America & Caribbean,South America,situación más bien buena,23000
+2017,Ghana,GHA,82.05,26,Sub-Saharan Africa,Western Africa,situación más bien buena,5120
+2017,Cabo Verde,CPV,81.98,27,Sub-Saharan Africa,Western Africa,situación más bien buena,6640
+2017,Letonia,LVA,81.38,28,Europe & Central Asia,Northern Europe,situación más bien buena,28700
+2017,España,ESP,81.31,29,Europe & Central Asia,Southern Europe,situación más bien buena,39500
+2017,Chipre,CYP,80.21,30,Europe & Central Asia,Western Asia,situación más bien buena,38300
+2017,Sudáfrica,ZAF,79.88,31,Sub-Saharan Africa,Southern Africa,situación más bien buena,13900
+2017,Liechtenstein,LIE,79.69,32,Europe & Central Asia,Western Europe,situación más bien buena,NA
+2017,Chile,CHL,79.47,33,Latin America & Caribbean,South America,situación más bien buena,24500
+2017,Trinidad y Tobago,TTO,79.38,34,Latin America & Caribbean,Caribbean,situación más bien buena,26300
+2017,Andorra,AND,78.97,35,Europe & Central Asia,Southern Europe,situación más bien buena,56300
+2017,Lituania,LTU,78.63,36,Europe & Central Asia,Northern Europe,situación más bien buena,33800
+2017,Eslovenia,SVN,78.3,37,Europe & Central Asia,Southern Europe,situación más bien buena,36500
+2017,OECS,XCD,77.9,38,NA,NA,situación más bien buena,NA
+2017,Francia,FRA,77.76,39,Europe & Central Asia,Western Europe,situación más bien buena,44600
+2017,Reino Unido,GBR,77.74,40,Europe & Central Asia,Northern Europe,situación más bien buena,46400
+2017,Belice,BLZ,76.57,41,Latin America & Caribbean,Central America,situación más bien buena,7190
+2017,Burkina Faso,BFA,76.15,42,Sub-Saharan Africa,Western Africa,situación más bien buena,2040
+2017,Estados Unidos,USA,76.12,43,North America,Northern America,situación más bien buena,60100
+2017,Comoras,COM,75.67,44,Sub-Saharan Africa,Eastern Africa,situación más bien buena,3030
+2017,Taiwán,TWN,75.63,45,East Asia & Pacific,Eastern Asia,situación más bien buena,50600
+2017,Rumania,ROU,75.54,46,Europe & Central Asia,Eastern Europe,situación más bien buena,27100
+2017,Malta,MLT,75.24,47,Middle East & North Africa,Southern Europe,situación más bien buena,42600
+2017,Botsuana,BWA,75.07,48,Sub-Saharan Africa,Southern Africa,situación más bien buena,15900
+2017,Tonga,TON,75.03,49,East Asia & Pacific,Polynesia,situación más bien buena,6470
+2017,Argentina,ARG,74.93,50,Latin America & Caribbean,South America,problemas significativos,23600
+2017,Papúa Nueva Guinea,PNG,74.93,51,East Asia & Pacific,Melanesia,problemas significativos,4290
+2017,Italia,ITA,73.74,52,Europe & Central Asia,Southern Europe,problemas significativos,41600
+2017,Haití,HTI,73.64,53,Latin America & Caribbean,Caribbean,problemas significativos,3150
+2017,Polonia,POL,73.53,54,Europe & Central Asia,Eastern Europe,problemas significativos,30100
+2017,Mauritania,MRT,73.51,55,Sub-Saharan Africa,Western Africa,problemas significativos,5110
+2017,Mauricio,MUS,73.33,56,Sub-Saharan Africa,Eastern Africa,problemas significativos,21400
+2017,Madagascar,MDG,73.29,57,Sub-Saharan Africa,Eastern Africa,problemas significativos,1580
+2017,Senegal,SEN,73.28,58,Sub-Saharan Africa,Western Africa,problemas significativos,3200
+2017,República Dominicana,DOM,73.24,59,Latin America & Caribbean,Caribbean,problemas significativos,16700
+2017,Guyana,GUY,73.2,60,Latin America & Caribbean,South America,problemas significativos,12000
+2017,Niger,NER,72.79,61,Sub-Saharan Africa,Western Africa,problemas significativos,1160
+2017,El Salvador,SLV,72.76,62,Latin America & Caribbean,Central America,problemas significativos,8450
+2017,Corea del Sur,KOR,72.39,63,East Asia & Pacific,Eastern Asia,problemas significativos,41000
+2017,Georgia,GEO,72.24,64,Europe & Central Asia,Western Asia,problemas significativos,13600
+2017,Bosnia-Herzegovina,BIH,72.17,65,Europe & Central Asia,Southern Europe,problemas significativos,13800
+2017,Serbia,SRB,71.95,66,Europe & Central Asia,Southern Europe,problemas significativos,16600
+2017,Fiyi,FJI,71.36,67,East Asia & Pacific,Melanesia,problemas significativos,13400
+2017,Lesoto,LSO,71.22,68,Sub-Saharan Africa,Southern Africa,problemas significativos,2670
+2017,Mongolia,MNG,71.05,69,East Asia & Pacific,Eastern Asia,problemas significativos,11400
+2017,Malaui,MWI,71.03,70,Sub-Saharan Africa,Eastern Africa,problemas significativos,1470
+2017,Hungría,HUN,70.99,71,Europe & Central Asia,Eastern Europe,problemas significativos,29500
+2017,Japón,JPN,70.56,72,East Asia & Pacific,Eastern Asia,problemas significativos,41500
+2017,Hong Kong,HKG,70.54,73,East Asia & Pacific,Eastern Asia,problemas significativos,59800
+2017,Croacia,HRV,70.41,74,Europe & Central Asia,Southern Europe,problemas significativos,27200
+2017,Chipre Norte,CTU,70.12,75,NA,NA,problemas significativos,NA
+2017,Albania,ALB,70.08,76,Europe & Central Asia,Southern Europe,problemas significativos,12800
+2017,Guinea-Bisáu,GNB,69.91,77,Sub-Saharan Africa,Western Africa,problemas significativos,1930
+2017,Benín,BEN,69.68,78,Sub-Saharan Africa,Western Africa,problemas significativos,3050
+2017,Armenia,ARM,69.62,79,Europe & Central Asia,Western Asia,problemas significativos,12100
+2017,Moldavia,MDA,69.59,80,Europe & Central Asia,Eastern Europe,problemas significativos,11700
+2017,Costa de Marfil,CIV,69.58,81,Sub-Saharan Africa,Western Africa,problemas significativos,4480
+2017,Kosovo,XKO,69.55,82,NA,NA,problemas significativos,NA
+2017,Tanzania,TZA,69.35,83,Sub-Saharan Africa,Eastern Africa,problemas significativos,2530
+2017,Bután,BTN,69.27,84,South Asia,Southern Asia,problemas significativos,11100
+2017,Sierra Leona,SLE,69.27,85,Sub-Saharan Africa,Western Africa,problemas significativos,1630
+2017,Togo,TGO,69.25,86,Sub-Saharan Africa,Western Africa,problemas significativos,2010
+2017,Seychelles,SYC,69.14,87,Sub-Saharan Africa,Eastern Africa,problemas significativos,27300
+2017,Grecia,GRC,69.11,88,Europe & Central Asia,Southern Europe,problemas significativos,28600
+2017,Kirguistán,KGZ,69.08,89,Europe & Central Asia,Central Asia,problemas significativos,5050
+2017,Peru,PER,69.02,90,Latin America & Caribbean,South America,problemas significativos,12500
+2017,Israel,ISR,68.99,91,Middle East & North Africa,Western Asia,problemas significativos,39100
+2017,Nicaragua,NIC,68.99,92,Latin America & Caribbean,Central America,problemas significativos,6000
+2017,Mozambique,MOZ,68.95,93,Sub-Saharan Africa,Eastern Africa,problemas significativos,1280
+2017,Liberia,LBR,68.88,94,Sub-Saharan Africa,Western Africa,problemas significativos,1560
+2017,Kenia,KEN,68.8,95,Sub-Saharan Africa,Eastern Africa,problemas significativos,4200
+2017,Panamá,PAN,67.88,96,Latin America & Caribbean,Central America,problemas significativos,30400
+2017,Túnez,TUN,67.78,97,Middle East & North Africa,Northern Africa,problemas significativos,11200
+2017,Timor Oriental,TLS,67.18,98,East Asia & Pacific,South-Eastern Asia,problemas significativos,3180
+2017,Líbano,LBN,66.99,99,Middle East & North Africa,Western Asia,problemas significativos,16000
+2017,Nepal,NPL,66.98,100,South Asia,Southern Asia,problemas significativos,3570
+2017,Guinea,GIN,66.85,101,Sub-Saharan Africa,Western Africa,problemas significativos,2420
+2017,Ucrania,UKR,66.81,102,Europe & Central Asia,Eastern Europe,problemas significativos,11900
+2017,Brasil,BRA,66.42,103,Latin America & Caribbean,South America,problemas significativos,14500
+2017,Kuwait,KWT,66.39,104,Middle East & North Africa,Western Asia,problemas significativos,50900
+2017,Ecuador,ECU,66.36,105,Latin America & Caribbean,South America,problemas significativos,11600
+2017,Montenegro,MNE,66.35,106,Europe & Central Asia,Southern Europe,problemas significativos,19700
+2017,Bolivia,BOL,66.12,107,Latin America & Caribbean,South America,problemas significativos,8420
+2017,República Gabonesa,GAB,65.17,108,Sub-Saharan Africa,Middle Africa,problemas significativos,15000
+2017,Bulgaria,BGR,64.99,109,Europe & Central Asia,Eastern Europe,situación difícil,21500
+2017,Paraguay,PRY,64.36,110,Latin America & Caribbean,South America,situación difícil,12600
+2017,República de Macedonia del Norte,MKD,64.26,111,Europe & Central Asia,Southern Europe,situación difícil,15700
+2017,Uganda,UGA,64.06,112,Sub-Saharan Africa,Eastern Africa,situación difícil,2080
+2017,República Centroafricana,CAF,63.88,113,Sub-Saharan Africa,Middle Africa,situación difícil,913
+2017,Zambia,ZMB,63.52,114,Sub-Saharan Africa,Eastern Africa,situación difícil,3490
+2017,República del Congo,COG,63.27,115,Sub-Saharan Africa,Middle Africa,situación difícil,4240
+2017,Malí,MLI,61.73,116,Sub-Saharan Africa,Western Africa,situación difícil,2250
+2017,Maldivas,MDV,60.7,117,South Asia,Southern Asia,situación difícil,18100
+2017,Guatemala,GTM,60.67,118,Latin America & Caribbean,Central America,situación difícil,8320
+2017,Emiratos Árabes Unidos,ARE,60.61,119,Middle East & North Africa,Western Asia,situación difícil,67200
+2017,Afganistán,AFG,60.54,120,South Asia,Southern Asia,situación difícil,2060
+2017,Chad,TCD,60.34,121,Sub-Saharan Africa,Middle Africa,situación difícil,1590
+2017,Nigeria,NGA,60.31,122,Sub-Saharan Africa,Western Africa,situación difícil,5190
+2017,Catar,QAT,60.17,123,Middle East & North Africa,Western Asia,situación difícil,91700
+2017,Indonesia,IDN,60.07,124,East Asia & Pacific,South-Eastern Asia,situación difícil,10900
+2017,Angola,AGO,59.58,125,Sub-Saharan Africa,Middle Africa,situación difícil,7310
+2017,Omán,OMN,59.54,126,Middle East & North Africa,Western Asia,situación difícil,33300
+2017,Filipinas,PHL,58.92,127,East Asia & Pacific,South-Eastern Asia,situación difícil,8120
+2017,Zimbabue,ZWE,58.56,128,Sub-Saharan Africa,Eastern Africa,situación difícil,3800
+2017,Colombia,COL,58.53,129,Latin America & Caribbean,South America,situación difícil,14200
+2017,Camerún,CMR,58.41,130,Sub-Saharan Africa,Middle Africa,situación difícil,3670
+2017,Birmania,MMR,58.18,131,East Asia & Pacific,South-Eastern Asia,situación difícil,4230
+2017,Camboya,KHM,57.93,132,East Asia & Pacific,South-Eastern Asia,situación difícil,3930
+2017,Marruecos,MAR,57.58,133,Middle East & North Africa,Northern Africa,situación difícil,7310
+2017,Argelia,DZA,57.17,134,Middle East & North Africa,Northern Africa,situación difícil,11700
+2017,Palestina,PSE,57.1,135,Middle East & North Africa,Western Asia,situación difícil,6400
+2017,India,IND,57.06,136,South Asia,Southern Asia,situación difícil,6180
+2017,Venezuela,VEN,57.06,137,Latin America & Caribbean,South America,situación difícil,15000
+2017,Jordania,JOR,56.76,138,Middle East & North Africa,Western Asia,situación difícil,10000
+2017,Pakistán,PAK,56.45,139,South Asia,Southern Asia,situación difícil,4570
+2017,Honduras,HND,56.25,140,Latin America & Caribbean,Central America,situación difícil,5560
+2017,Sri Lanka,LKA,55.66,141,South Asia,Southern Asia,situación difícil,12600
+2017,Tailandia,THA,55.31,142,East Asia & Pacific,South-Eastern Asia,situación difícil,17400
+2017,Gambia,GMB,53.3,143,Sub-Saharan Africa,Western Africa,situación difícil,2070
+2017,Malasia,MYS,53.11,144,East Asia & Pacific,South-Eastern Asia,situación difícil,26700
+2017,Sudán del Sur,SSD,51.84,145,Sub-Saharan Africa,Northern Africa,situación difícil,2090
+2017,Bangladés,BGD,51.64,146,South Asia,Southern Asia,situación difícil,4160
+2017,México,MEX,51.03,147,Latin America & Caribbean,Central America,situación difícil,19700
+2017,Rusia,RUS,50.55,148,Europe & Central Asia,Eastern Europe,situación difícil,25900
+2017,Tayikistán,TJK,49.73,149,Europe & Central Asia,Central Asia,situación difícil,3250
+2017,Etiopía,ETH,49.66,150,Sub-Saharan Africa,Eastern Africa,situación difícil,2020
+2017,Singapur,SGP,48.9,151,East Asia & Pacific,South-Eastern Asia,situación difícil,95300
+2017,Esuatini,SWZ,48.73,152,Sub-Saharan Africa,Southern Africa,situación difícil,8410
+2017,Belarús,BLR,47.57,153,Europe & Central Asia,Eastern Europe,situación difícil,18400
+2017,RD Congo,COD,47.33,154,Sub-Saharan Africa,Middle Africa,situación difícil,1060
+2017,Turquía,TUR,47.02,155,Europe & Central Asia,Western Asia,situación difícil,27900
+2017,Brunéi,BRN,46.28,156,East Asia & Pacific,South-Eastern Asia,situación difícil,61000
+2017,Kazajistán,KAZ,45.99,157,Europe & Central Asia,Central Asia,situación difícil,24900
+2017,Irak,IRQ,45.97,158,Middle East & North Africa,Western Asia,situación difícil,10500
+2017,Ruanda,RWA,45.89,159,Sub-Saharan Africa,Eastern Africa,situación difícil,1980
+2017,Burundi,BDI,44.22,160,Sub-Saharan Africa,Eastern Africa,situación muy grave,774
+2017,Egipto,EGY,44.22,161,Middle East & North Africa,Northern Africa,situación muy grave,11000
+2017,Azerbaiyán,AZE,43.6,162,Europe & Central Asia,Western Asia,situación muy grave,14100
+2017,Libia,LBY,43.19,163,Middle East & North Africa,Northern Africa,situación muy grave,13200
+2017,Baréin,BHR,41.12,164,Middle East & North Africa,Western Asia,situación muy grave,47700
+2017,Irán,IRN,34.88,165,Middle East & North Africa,Southern Asia,situación muy grave,14500
+2017,Yemen,YEM,34.2,166,Middle East & North Africa,Western Asia,situación muy grave,2700
+2017,Somalia,SOM,34.05,167,Sub-Saharan Africa,Eastern Africa,situación muy grave,1080
+2017,Arabia Saudita,SAU,33.98,168,Middle East & North Africa,Western Asia,situación muy grave,47300
+2017,Uzbekistán,UZB,33.89,169,Europe & Central Asia,Central Asia,situación muy grave,6840
+2017,Laos,LAO,33.59,170,East Asia & Pacific,South-Eastern Asia,situación muy grave,7260
+2017,Guinea Ecuatorial,GNQ,33.53,171,Sub-Saharan Africa,Middle Africa,situación muy grave,22600
+2017,Yibuti,DJI,29.46,172,Middle East & North Africa,Eastern Africa,situación muy grave,4890
+2017,Cuba,CUB,28.25,173,Latin America & Caribbean,Caribbean,situación muy grave,9460
+2017,Sudán,SDN,26.44,174,Sub-Saharan Africa,Northern Africa,situación muy grave,4600
+2017,Vietnam,VNM,26.04,175,East Asia & Pacific,South-Eastern Asia,situación muy grave,7160
+2017,China,CHN,22.34,176,East Asia & Pacific,Eastern Asia,situación muy grave,14200
+2017,Siria,SYR,18.51,177,Middle East & North Africa,Western Asia,situación muy grave,3770
+2017,Turkmenistán,TKM,15.81,178,Europe & Central Asia,Central Asia,situación muy grave,14200
+2017,Eritrea,ERI,15.76,179,Sub-Saharan Africa,Eastern Africa,situación muy grave,1410
+2017,Corea del Norte,PRK,15.02,180,East Asia & Pacific,Eastern Asia,situación muy grave,1950
+2018,Noruega,NOR,92.37,1,Europe & Central Asia,Northern Europe,buena situación,64300
+2018,Suecia,SWE,91.69,2,Europe & Central Asia,Northern Europe,buena situación,52300
+2018,Países Bajos,NLD,89.99,3,Europe & Central Asia,Western Europe,buena situación,56100
+2018,Finlandia,FIN,89.74,4,Europe & Central Asia,Northern Europe,buena situación,48000
+2018,Suiza,CHE,88.73,5,Europe & Central Asia,Western Europe,buena situación,70600
+2018,Jamaica,JAM,88.67,6,Latin America & Caribbean,Caribbean,buena situación,9740
+2018,Bélgica,BEL,86.84,7,Europe & Central Asia,Western Europe,buena situación,51100
+2018,Nueva Zelanda,NZL,86.38,8,East Asia & Pacific,Australia and New Zealand,buena situación,42900
+2018,Dinamarca,DNK,86.01,9,Europe & Central Asia,Northern Europe,buena situación,56200
+2018,Costa Rica,CRI,85.99,10,Latin America & Caribbean,Central America,buena situación,20700
+2018,Austria,AUT,85.96,11,Europe & Central Asia,Western Europe,buena situación,55300
+2018,Estonia,EST,85.92,12,Europe & Central Asia,Northern Europe,buena situación,35100
+2018,Islandia,ISL,85.9,13,Europe & Central Asia,Northern Europe,buena situación,56800
+2018,Portugal,PRT,85.83,14,Europe & Central Asia,Southern Europe,buena situación,34000
+2018,Alemania,DEU,85.61,15,Europe & Central Asia,Western Europe,buena situación,53500
+2018,Irlanda,IRL,85.41,16,Europe & Central Asia,Northern Europe,buena situación,83700
+2018,Luxemburgo,LUX,85.28,17,Europe & Central Asia,Western Europe,buena situación,115000
+2018,Canadá,CAN,84.72,18,North America,Northern America,situación más bien buena,49000
+2018,Australia,AUS,84.54,19,East Asia & Pacific,Australia and New Zealand,situación más bien buena,49000
+2018,Uruguay,URY,84.44,20,Latin America & Caribbean,South America,situación más bien buena,23000
+2018,Surinam,SUR,83.56,21,Latin America & Caribbean,South America,situación más bien buena,19000
+2018,Samoa,WSM,83.31,22,East Asia & Pacific,Polynesia,situación más bien buena,6390
+2018,Ghana,GHA,81.59,23,Sub-Saharan Africa,Western Africa,situación más bien buena,5320
+2018,Letonia,LVA,80.37,24,Europe & Central Asia,Northern Europe,situación más bien buena,30100
+2018,Chipre,CYP,80.15,25,Europe & Central Asia,Western Asia,situación más bien buena,40000
+2018,Namibia,"NAM",79.76,26,Sub-Saharan Africa,Southern Africa,situación más bien buena,10100
+2018,Eslovaquia,SVK,79.74,27,Europe & Central Asia,Eastern Europe,situación más bien buena,31200
+2018,Sudáfrica,ZAF,79.61,28,Sub-Saharan Africa,Southern Africa,situación más bien buena,13900
+2018,Cabo Verde,CPV,79.61,29,Sub-Saharan Africa,Western Africa,situación más bien buena,6860
+2018,Liechtenstein,LIE,79.51,30,Europe & Central Asia,Western Europe,situación más bien buena,NA
+2018,España,ESP,79.49,31,Europe & Central Asia,Southern Europe,situación más bien buena,40300
+2018,Eslovenia,SVN,78.31,32,Europe & Central Asia,Southern Europe,situación más bien buena,38000
+2018,Francia,FRA,78.13,33,Europe & Central Asia,Western Europe,situación más bien buena,45300
+2018,República Checa,CZE,78.11,34,Europe & Central Asia,Eastern Europe,situación más bien buena,39900
+2018,OECS,XCD,77.89,35,NA,NA,situación más bien buena,NA
+2018,Lituania,LTU,77.8,36,Europe & Central Asia,Northern Europe,situación más bien buena,35400
+2018,Andorra,AND,77.79,37,Europe & Central Asia,Southern Europe,situación más bien buena,58300
+2018,Chile,CHL,77.31,38,Latin America & Caribbean,South America,situación más bien buena,25000
+2018,Trinidad y Tobago,TTO,77.21,39,Latin America & Caribbean,Caribbean,situación más bien buena,26300
+2018,Reino Unido,GBR,76.75,40,Europe & Central Asia,Northern Europe,situación más bien buena,46900
+2018,Burkina Faso,BFA,76.67,41,Sub-Saharan Africa,Western Africa,situación más bien buena,2120
+2018,Taiwán,TWN,76.64,42,East Asia & Pacific,Eastern Asia,situación más bien buena,51900
+2018,Corea del Sur,KOR,76.49,43,East Asia & Pacific,Eastern Asia,situación más bien buena,42000
+2018,Rumania,ROU,76.35,44,Europe & Central Asia,Eastern Europe,situación más bien buena,28500
+2018,Estados Unidos,USA,76.27,45,North America,Northern America,situación más bien buena,61600
+2018,Italia,ITA,75.88,46,Europe & Central Asia,Southern Europe,situación más bien buena,42000
+2018,Belice,BLZ,75.45,47,Latin America & Caribbean,Central America,situación más bien buena,7260
+2018,Botsuana,BWA,74.71,48,Sub-Saharan Africa,Southern Africa,problemas significativos,16200
+2018,Comoras,COM,74.7,49,Sub-Saharan Africa,Eastern Africa,problemas significativos,3070
+2018,Senegal,SEN,74.39,50,Sub-Saharan Africa,Western Africa,problemas significativos,3310
+2018,Tonga,TON,74.32,51,East Asia & Pacific,Polynesia,problemas significativos,6410
+2018,Argentina,ARG,73.95,52,Latin America & Caribbean,South America,problemas significativos,22700
+2018,Papúa Nueva Guinea,PNG,73.81,53,East Asia & Pacific,Melanesia,problemas significativos,4190
+2018,Madagascar,MDG,73.8,54,Sub-Saharan Africa,Eastern Africa,problemas significativos,1590
+2018,Guyana,GUY,73.75,55,Latin America & Caribbean,South America,problemas significativos,12500
+2018,Mauricio,MUS,73.55,56,Sub-Saharan Africa,Eastern Africa,problemas significativos,22200
+2018,Fiyi,FJI,73.45,57,East Asia & Pacific,Melanesia,problemas significativos,13800
+2018,Polonia,POL,73.41,58,Europe & Central Asia,Eastern Europe,problemas significativos,31700
+2018,República Dominicana,DOM,73.21,59,Latin America & Caribbean,Caribbean,problemas significativos,17700
+2018,Haití,HTI,73.18,60,Latin America & Caribbean,Caribbean,problemas significativos,3170
+2018,Georgia,GEO,72.66,61,Europe & Central Asia,Western Asia,problemas significativos,14300
+2018,Bosnia-Herzegovina,BIH,72.63,62,Europe & Central Asia,Southern Europe,problemas significativos,14400
+2018,Niger,NER,72.6,63,Sub-Saharan Africa,Western Africa,problemas significativos,1200
+2018,Malaui,MWI,72.57,64,Sub-Saharan Africa,Eastern Africa,problemas significativos,1500
+2018,Malta,MLT,72.56,65,Middle East & North Africa,Southern Europe,problemas significativos,43300
+2018,El Salvador,SLV,72.22,66,Latin America & Caribbean,Central America,problemas significativos,8620
+2018,Japón,JPN,71.36,67,East Asia & Pacific,Eastern Asia,problemas significativos,41800
+2018,Lesoto,LSO,71.22,68,Sub-Saharan Africa,Southern Africa,problemas significativos,2620
+2018,Croacia,HRV,71.06,69,Europe & Central Asia,Southern Europe,problemas significativos,28200
+2018,Hong Kong,HKG,70.96,70,East Asia & Pacific,Eastern Asia,problemas significativos,61100
+2018,Mongolia,MNG,70.95,71,East Asia & Pacific,Eastern Asia,problemas significativos,12000
+2018,Mauritania,MRT,70.91,72,Sub-Saharan Africa,Western Africa,problemas significativos,5190
+2018,Hungría,HUN,70.89,73,Europe & Central Asia,Eastern Europe,problemas significativos,31100
+2018,Grecia,GRC,70.81,74,Europe & Central Asia,Southern Europe,problemas significativos,29100
+2018,Albania,ALB,70.51,75,Europe & Central Asia,Southern Europe,problemas significativos,13300
+2018,Serbia,SRB,70.42,76,Europe & Central Asia,Southern Europe,problemas significativos,17500
+2018,Chipre Norte,CTU,70.41,77,NA,NA,problemas significativos,NA
+2018,Kosovo,XKO,70.39,78,NA,NA,problemas significativos,NA
+2018,Sierra Leona,SLE,70.02,79,Sub-Saharan Africa,Western Africa,problemas significativos,1660
+2018,Armenia,ARM,70.01,80,Europe & Central Asia,Western Asia,problemas significativos,12700
+2018,Moldavia,MDA,69.99,81,Europe & Central Asia,Eastern Europe,problemas significativos,12400
+2018,Costa de Marfil,CIV,69.92,82,Sub-Saharan Africa,Western Africa,problemas significativos,4850
+2018,Guinea-Bisáu,GNB,69.91,83,Sub-Saharan Africa,Western Africa,problemas significativos,1900
+2018,Benín,BEN,69.84,84,Sub-Saharan Africa,Western Africa,problemas significativos,3160
+2018,Seychelles,SYC,69.83,85,Sub-Saharan Africa,Eastern Africa,problemas significativos,27500
+2018,Togo,TGO,69.77,86,Sub-Saharan Africa,Western Africa,problemas significativos,2060
+2018,Israel,ISR,69.74,87,Middle East & North Africa,Western Asia,problemas significativos,39900
+2018,Peru,PER,69.73,88,Latin America & Caribbean,South America,problemas significativos,12800
+2018,Liberia,LBR,69.67,89,Sub-Saharan Africa,Western Africa,problemas significativos,1540
+2018,Nicaragua,NIC,69.59,90,Latin America & Caribbean,Central America,problemas significativos,5730
+2018,Panamá,PAN,69.44,91,Latin America & Caribbean,Central America,problemas significativos,31000
+2018,Ecuador,ECU,69.44,92,Latin America & Caribbean,South America,problemas significativos,11600
+2018,Tanzania,TZA,69.35,93,Sub-Saharan Africa,Eastern Africa,problemas significativos,2590
+2018,Bután,BTN,69.27,94,South Asia,Southern Asia,problemas significativos,11300
+2018,Timor Oriental,TLS,69.19,95,East Asia & Pacific,South-Eastern Asia,problemas significativos,3090
+2018,Kenia,KEN,69.18,96,Sub-Saharan Africa,Eastern Africa,problemas significativos,4340
+2018,Túnez,TUN,69.09,97,Middle East & North Africa,Northern Africa,problemas significativos,11400
+2018,Kirguistán,KGZ,69,98,Europe & Central Asia,Central Asia,problemas significativos,5130
+2018,Mozambique,MOZ,68.88,99,Sub-Saharan Africa,Eastern Africa,problemas significativos,1290
+2018,Líbano,LBN,68.85,100,Middle East & North Africa,Western Asia,problemas significativos,15700
+2018,Ucrania,UKR,68.84,101,Europe & Central Asia,Eastern Europe,problemas significativos,12300
+2018,Brasil,BRA,68.8,102,Latin America & Caribbean,South America,problemas significativos,14700
+2018,Montenegro,MNE,68.79,103,Europe & Central Asia,Southern Europe,problemas significativos,20700
+2018,Guinea,GIN,68.1,104,Sub-Saharan Africa,Western Africa,problemas significativos,2500
+2018,Kuwait,KWT,68.09,105,Middle East & North Africa,Western Asia,problemas significativos,50500
+2018,Nepal,NPL,67.95,106,South Asia,Southern Asia,problemas significativos,3770
+2018,Paraguay,PRY,67.68,107,Latin America & Caribbean,South America,problemas significativos,12800
+2018,República Gabonesa,GAB,67.63,108,Sub-Saharan Africa,Middle Africa,problemas significativos,14700
+2018,República de Macedonia del Norte,MKD,67.57,109,Europe & Central Asia,Southern Europe,problemas significativos,16100.000000000002
+2018,Bolivia,BOL,67.55,110,Latin America & Caribbean,South America,problemas significativos,8660
+2018,Bulgaria,BGR,64.78,111,Europe & Central Asia,Eastern Europe,situación difícil,22200
+2018,República Centroafricana,CAF,64.75,112,Sub-Saharan Africa,Middle Africa,situación difícil,933
+2018,Zambia,ZMB,64.64,113,Sub-Saharan Africa,Eastern Africa,situación difícil,3520
+2018,República del Congo,COG,64.58,114,Sub-Saharan Africa,Middle Africa,situación difícil,3930
+2018,Malí,MLI,63.85,115,Sub-Saharan Africa,Western Africa,situación difícil,2280
+2018,Guatemala,GTM,63.83,116,Latin America & Caribbean,Central America,situación difícil,8460
+2018,Uganda,UGA,63.23,117,Sub-Saharan Africa,Eastern Africa,situación difícil,2130
+2018,Afganistán,AFG,62.72,118,South Asia,Southern Asia,situación difícil,2030
+2018,Nigeria,NGA,62.59,119,Sub-Saharan Africa,Western Africa,situación difícil,5160
+2018,Maldivas,MDV,62.05,120,South Asia,Southern Asia,situación difícil,18800
+2018,Angola,AGO,61.65,121,Sub-Saharan Africa,Middle Africa,situación difícil,6930
+2018,Gambia,GMB,61.64,122,Sub-Saharan Africa,Western Africa,situación difícil,2160
+2018,Chad,TCD,61.55,123,Sub-Saharan Africa,Middle Africa,situación difícil,1580
+2018,Indonesia,IDN,60.32,124,East Asia & Pacific,South-Eastern Asia,situación difícil,11400
+2018,Catar,QAT,59.84,125,Middle East & North Africa,Western Asia,situación difícil,91000
+2018,Zimbabue,ZWE,59.47,126,Sub-Saharan Africa,Eastern Africa,situación difícil,3920
+2018,Omán,OMN,59.33,127,Middle East & North Africa,Western Asia,situación difícil,32600
+2018,Emiratos Árabes Unidos,ARE,59.14,128,Middle East & North Africa,Western Asia,situación difícil,67000
+2018,Camerún,CMR,59.08,129,Sub-Saharan Africa,Middle Africa,situación difícil,3710
+2018,Colombia,COL,58.97,130,Latin America & Caribbean,South America,situación difícil,14300
+2018,Sri Lanka,LKA,58.63,131,South Asia,Southern Asia,situación difícil,12900
+2018,Jordania,JOR,58.29,132,Middle East & North Africa,Western Asia,situación difícil,10000
+2018,Filipinas,PHL,57.47,133,East Asia & Pacific,South-Eastern Asia,situación difícil,8520
+2018,Palestina,PSE,57.04,134,Middle East & North Africa,Western Asia,situación difícil,6320
+2018,Marruecos,MAR,56.87,135,Middle East & North Africa,Northern Africa,situación difícil,7450
+2018,Argelia,DZA,56.87,136,Middle East & North Africa,Northern Africa,situación difícil,11600
+2018,Birmania,MMR,56.85,137,East Asia & Pacific,South-Eastern Asia,situación difícil,4470
+2018,India,IND,56.76,138,South Asia,Southern Asia,situación difícil,6520
+2018,Pakistán,PAK,56.76,139,South Asia,Southern Asia,situación difícil,4740
+2018,Tailandia,THA,55.69,140,East Asia & Pacific,South-Eastern Asia,situación difícil,18100
+2018,Honduras,HND,54.77,141,Latin America & Caribbean,Central America,situación difícil,5680
+2018,Camboya,KHM,54.1,142,East Asia & Pacific,South-Eastern Asia,situación difícil,4160
+2018,Venezuela,VEN,53.97,143,Latin America & Caribbean,South America,situación difícil,12400
+2018,Sudán del Sur,SSD,53.12,144,Sub-Saharan Africa,Northern Africa,situación difícil,2010
+2018,Malasia,MYS,52.59,145,East Asia & Pacific,South-Eastern Asia,situación difícil,27600
+2018,Bangladés,BGD,51.38,146,South Asia,Southern Asia,situación difícil,4440
+2018,México,MEX,51.09,147,Latin America & Caribbean,Central America,situación difícil,19900
+2018,Rusia,RUS,50.04,148,Europe & Central Asia,Eastern Europe,situación difícil,26700
+2018,Tayikistán,TJK,49.94,149,Europe & Central Asia,Central Asia,situación difícil,3420
+2018,Etiopía,ETH,49.83,150,Sub-Saharan Africa,Eastern Africa,situación difícil,2100
+2018,Singapur,SGP,49.05,151,East Asia & Pacific,South-Eastern Asia,situación difícil,98200
+2018,Esuatini,SWZ,48.54,152,Sub-Saharan Africa,Southern Africa,situación difícil,8520
+2018,Brunéi,BRN,48.52,153,East Asia & Pacific,South-Eastern Asia,situación difícil,60400
+2018,RD Congo,COD,48.4,154,Sub-Saharan Africa,Middle Africa,situación difícil,1090
+2018,Belarús,BLR,47.41,155,Europe & Central Asia,Eastern Europe,situación difícil,19000
+2018,Ruanda,RWA,47.1,156,Sub-Saharan Africa,Eastern Africa,situación difícil,2090
+2018,Turquía,TUR,46.5,157,Europe & Central Asia,Western Asia,situación difícil,28300
+2018,Kazajistán,KAZ,45.59,158,Europe & Central Asia,Central Asia,situación difícil,25500
+2018,Burundi,BDI,44.74,159,Sub-Saharan Africa,Eastern Africa,situación muy grave,762
+2018,Irak,IRQ,43.44,160,Middle East & North Africa,Western Asia,situación muy grave,10600
+2018,Egipto,EGY,43.28,161,Middle East & North Africa,Northern Africa,situación muy grave,11400
+2018,Libia,LBY,43.21,162,Middle East & North Africa,Northern Africa,situación muy grave,15000
+2018,Azerbaiyán,AZE,40.27,163,Europe & Central Asia,Western Asia,situación muy grave,14200
+2018,Irán,IRN,39.29,164,Middle East & North Africa,Southern Asia,situación muy grave,13500
+2018,Uzbekistán,UZB,39.16,165,Europe & Central Asia,Central Asia,situación muy grave,7080
+2018,Baréin,BHR,39.15,166,Middle East & North Africa,Western Asia,situación muy grave,46400
+2018,Yemen,YEM,37.77,167,Middle East & North Africa,Western Asia,situación muy grave,2660
+2018,Somalia,SOM,36.96,168,Sub-Saharan Africa,Eastern Africa,situación muy grave,1130
+2018,Arabia Saudita,SAU,36.87,169,Middle East & North Africa,Western Asia,situación muy grave,47600
+2018,Laos,LAO,33.59,170,East Asia & Pacific,South-Eastern Asia,situación muy grave,7590
+2018,Guinea Ecuatorial,GNQ,33.53,171,Sub-Saharan Africa,Middle Africa,situación muy grave,20400
+2018,Cuba,CUB,31.1,172,Latin America & Caribbean,Caribbean,situación muy grave,9680
+2018,Yibuti,DJI,29.23,173,Middle East & North Africa,Eastern Africa,situación muy grave,5210
+2018,Sudán,SDN,28.87,174,Sub-Saharan Africa,Northern Africa,situación muy grave,4370
+2018,Vietnam,VNM,24.95,175,East Asia & Pacific,South-Eastern Asia,situación muy grave,7590
+2018,China,CHN,21.71,176,East Asia & Pacific,Eastern Asia,situación muy grave,15100
+2018,Siria,SYR,20.78,177,Middle East & North Africa,Western Asia,situación muy grave,3890
+2018,Turkmenistán,TKM,15.8,178,Europe & Central Asia,Central Asia,situación muy grave,14800
+2018,Eritrea,ERI,15.76,179,Sub-Saharan Africa,Eastern Africa,situación muy grave,1560
+2018,Corea del Norte,PRK,11.13,180,East Asia & Pacific,Eastern Asia,situación muy grave,1860
+2019,Noruega,NOR,92.18,1,Europe & Central Asia,Northern Europe,buena situación,64400.00000000001
+2019,Finlandia,FIN,92.1,2,Europe & Central Asia,Northern Europe,buena situación,48600
+2019,Suecia,SWE,91.69,3,Europe & Central Asia,Northern Europe,buena situación,52900
+2019,Países Bajos,NLD,91.37,4,Europe & Central Asia,Western Europe,buena situación,56800
+2019,Dinamarca,DNK,90.13,5,Europe & Central Asia,Northern Europe,buena situación,57200
+2019,Suiza,CHE,89.48,6,Europe & Central Asia,Western Europe,buena situación,70900
+2019,Nueva Zelanda,NZL,89.25,7,East Asia & Pacific,Australia and New Zealand,buena situación,42900
+2019,Jamaica,JAM,88.87,8,Latin America & Caribbean,Caribbean,buena situación,9780
+2019,Bélgica,BEL,87.93,9,Europe & Central Asia,Western Europe,buena situación,51900
+2019,Costa Rica,CRI,87.76,10,Latin America & Caribbean,Central America,buena situación,20900
+2019,Estonia,EST,87.73,11,Europe & Central Asia,Northern Europe,buena situación,36400
+2019,Portugal,PRT,87.37,12,Europe & Central Asia,Southern Europe,buena situación,34900
+2019,Alemania,DEU,85.4,13,Europe & Central Asia,Western Europe,buena situación,53900
+2019,Islandia,ISL,85.29,14,Europe & Central Asia,Northern Europe,buena situación,56900
+2019,Irlanda,IRL,85,15,Europe & Central Asia,Northern Europe,situación más bien buena,86700
+2019,Austria,AUT,84.67,16,Europe & Central Asia,Western Europe,situación más bien buena,55800
+2019,Luxemburgo,LUX,84.34,17,Europe & Central Asia,Western Europe,situación más bien buena,117000
+2019,Canadá,CAN,84.31,18,North America,Northern America,situación más bien buena,49200
+2019,Uruguay,URY,83.94,19,Latin America & Caribbean,South America,situación más bien buena,23000
+2019,Surinam,SUR,83.62,20,Latin America & Caribbean,South America,situación más bien buena,19000
+2019,Australia,AUS,83.45,21,East Asia & Pacific,Australia and New Zealand,situación más bien buena,49300
+2019,Samoa,WSM,81.75,22,East Asia & Pacific,Polynesia,situación más bien buena,6630
+2019,Namibia,"NAM",81.05,23,Sub-Saharan Africa,Southern Africa,situación más bien buena,9810
+2019,Letonia,LVA,80.47,24,Europe & Central Asia,Northern Europe,situación más bien buena,31000
+2019,Cabo Verde,CPV,80.19,25,Sub-Saharan Africa,Western Africa,situación más bien buena,7170
+2019,Liechtenstein,LIE,79.51,26,Europe & Central Asia,Western Europe,situación más bien buena,NA
+2019,Ghana,GHA,79.19,27,Sub-Saharan Africa,Western Africa,situación más bien buena,5540
+2019,Chipre,CYP,78.26,28,Europe & Central Asia,Western Asia,situación más bien buena,41500
+2019,España,ESP,78.01,29,Europe & Central Asia,Southern Europe,situación más bien buena,40800
+2019,Lituania,LTU,77.94,30,Europe & Central Asia,Northern Europe,situación más bien buena,37200
+2019,Sudáfrica,ZAF,77.81,31,Sub-Saharan Africa,Southern Africa,situación más bien buena,13700
+2019,Francia,FRA,77.79,32,Europe & Central Asia,Western Europe,situación más bien buena,46000
+2019,Reino Unido,GBR,77.77,33,Europe & Central Asia,Northern Europe,situación más bien buena,47400
+2019,Eslovenia,SVN,77.69,34,Europe & Central Asia,Southern Europe,situación más bien buena,38900
+2019,Eslovaquia,SVK,76.42,35,Europe & Central Asia,Eastern Europe,situación más bien buena,31900
+2019,Burkina Faso,BFA,75.47,36,Sub-Saharan Africa,Western Africa,situación más bien buena,2180
+2019,Andorra,AND,75.37,37,Europe & Central Asia,Southern Europe,situación más bien buena,58400
+2019,Papúa Nueva Guinea,PNG,75.3,38,East Asia & Pacific,Melanesia,situación más bien buena,4290
+2019,Trinidad y Tobago,TTO,75.26,39,Latin America & Caribbean,Caribbean,situación más bien buena,25800
+2019,República Checa,CZE,75.11,40,Europe & Central Asia,Eastern Europe,situación más bien buena,41000
+2019,Corea del Sur,KOR,75.06,41,East Asia & Pacific,Eastern Asia,situación más bien buena,42800
+2019,Taiwán,TWN,75.02,42,East Asia & Pacific,Eastern Asia,situación más bien buena,53500
+2019,Italia,ITA,75.02,43,Europe & Central Asia,Southern Europe,situación más bien buena,42700
+2019,Botsuana,BWA,74.91,44,Sub-Saharan Africa,Southern Africa,problemas significativos,16300
+2019,Tonga,TON,74.59,45,East Asia & Pacific,Polynesia,problemas significativos,6380
+2019,Chile,CHL,74.35,46,Latin America & Caribbean,South America,problemas significativos,25000
+2019,Rumania,ROU,74.33,47,Europe & Central Asia,Eastern Europe,problemas significativos,29900
+2019,Estados Unidos,USA,74.31,48,North America,Northern America,problemas significativos,62600
+2019,Senegal,SEN,74.19,49,Sub-Saharan Africa,Western Africa,problemas significativos,3360
+2019,OECS,XCD,73.96,50,NA,NA,problemas significativos,NA
+2019,Guyana,GUY,73.37,51,Latin America & Caribbean,South America,problemas significativos,13100
+2019,Fiyi,FJI,72.82,52,East Asia & Pacific,Melanesia,problemas significativos,13700
+2019,Belice,BLZ,72.5,53,Latin America & Caribbean,Central America,problemas significativos,7250
+2019,Madagascar,MDG,72.24,54,Sub-Saharan Africa,Eastern Africa,problemas significativos,1620
+2019,República Dominicana,DOM,72.1,55,Latin America & Caribbean,Caribbean,problemas significativos,18400
+2019,Comoras,COM,72.09,56,Sub-Saharan Africa,Eastern Africa,problemas significativos,3060
+2019,Argentina,ARG,71.7,57,Latin America & Caribbean,South America,problemas significativos,22100
+2019,Mauricio,MUS,71.54,58,Sub-Saharan Africa,Eastern Africa,problemas significativos,22900
+2019,Polonia,POL,71.11,59,Europe & Central Asia,Eastern Europe,problemas significativos,33200
+2019,Georgia,GEO,71.02,60,Europe & Central Asia,Western Asia,problemas significativos,15000
+2019,Armenia,ARM,71.02,61,Europe & Central Asia,Western Asia,problemas significativos,13700
+2019,Haití,HTI,71,62,Latin America & Caribbean,Caribbean,problemas significativos,3070
+2019,Bosnia-Herzegovina,BIH,70.98,63,Europe & Central Asia,Southern Europe,problemas significativos,14900
+2019,Croacia,HRV,70.97,64,Europe & Central Asia,Southern Europe,problemas significativos,29300
+2019,Grecia,GRC,70.92,65,Europe & Central Asia,Southern Europe,problemas significativos,29700
+2019,Niger,NER,70.74,66,Sub-Saharan Africa,Western Africa,problemas significativos,1220
+2019,Japón,JPN,70.64,67,East Asia & Pacific,Eastern Asia,problemas significativos,42000
+2019,Malaui,MWI,70.64,68,Sub-Saharan Africa,Eastern Africa,problemas significativos,1540
+2019,Seychelles,SYC,70.59,69,Sub-Saharan Africa,Eastern Africa,problemas significativos,27600
+2019,Mongolia,MNG,70.49,70,East Asia & Pacific,Eastern Asia,problemas significativos,12500
+2019,Costa de Marfil,CIV,70.48,71,Sub-Saharan Africa,Western Africa,problemas significativos,5210
+2019,Túnez,TUN,70.39,72,Middle East & North Africa,Northern Africa,problemas significativos,11400
+2019,Hong Kong,HKG,70.35,73,East Asia & Pacific,Eastern Asia,problemas significativos,59600
+2019,Chipre Norte,CTU,70.33,74,NA,NA,problemas significativos,NA
+2019,Kosovo,XKO,70.32,75,NA,NA,problemas significativos,NA
+2019,Togo,TGO,70.31,76,Sub-Saharan Africa,Western Africa,problemas significativos,2120
+2019,Malta,MLT,70.26,77,Middle East & North Africa,Southern Europe,problemas significativos,44000
+2019,Lesoto,LSO,70.26,78,Sub-Saharan Africa,Southern Africa,problemas significativos,2580
+2019,Panamá,PAN,70.22,79,Latin America & Caribbean,Central America,problemas significativos,31400
+2019,Bután,BTN,70.19,80,South Asia,Southern Asia,problemas significativos,11900
+2019,El Salvador,SLV,70.19,81,Latin America & Caribbean,Central America,problemas significativos,8780
+2019,Albania,ALB,70.16,82,Europe & Central Asia,Southern Europe,problemas significativos,13700
+2019,Kirguistán,KGZ,70.08,83,Europe & Central Asia,Central Asia,problemas significativos,5260
+2019,Timor Oriental,TLS,70.07,84,East Asia & Pacific,South-Eastern Asia,problemas significativos,3630
+2019,Peru,PER,69.78,85,Latin America & Caribbean,South America,problemas significativos,12900
+2019,Sierra Leona,SLE,69.64,86,Sub-Saharan Africa,Western Africa,problemas significativos,1710
+2019,Hungría,HUN,69.56,87,Europe & Central Asia,Eastern Europe,problemas significativos,32600
+2019,Israel,ISR,69.2,88,Middle East & North Africa,Western Asia,problemas significativos,40600
+2019,Guinea-Bisáu,GNB,69.05,89,Sub-Saharan Africa,Western Africa,problemas significativos,1940
+2019,Serbia,SRB,68.82,90,Europe & Central Asia,Southern Europe,problemas significativos,18300
+2019,Moldavia,MDA,68.79,91,Europe & Central Asia,Eastern Europe,problemas significativos,13000
+2019,Gambia,GMB,68.65,92,Sub-Saharan Africa,Western Africa,problemas significativos,2230
+2019,Liberia,LBR,68.51,93,Sub-Saharan Africa,Western Africa,problemas significativos,1470
+2019,Mauritania,MRT,68.35,94,Sub-Saharan Africa,Western Africa,problemas significativos,5340
+2019,República de Macedonia del Norte,MKD,68.34,95,Europe & Central Asia,Southern Europe,problemas significativos,16800
+2019,Benín,BEN,68.26,96,Sub-Saharan Africa,Western Africa,problemas significativos,3290
+2019,Ecuador,ECU,68.12,97,Latin America & Caribbean,South America,problemas significativos,11400
+2019,Maldivas,MDV,67.84,98,South Asia,Southern Asia,problemas significativos,19500
+2019,Paraguay,PRY,67.6,99,Latin America & Caribbean,South America,problemas significativos,12600
+2019,Kenia,KEN,67.56,100,Sub-Saharan Africa,Eastern Africa,problemas significativos,4450
+2019,Líbano,LBN,67.56,101,Middle East & North Africa,Western Asia,problemas significativos,14600
+2019,Ucrania,UKR,67.54,102,Europe & Central Asia,Eastern Europe,problemas significativos,12800
+2019,Mozambique,MOZ,67.34,103,Sub-Saharan Africa,Eastern Africa,problemas significativos,1280
+2019,Montenegro,MNE,67.26,104,Europe & Central Asia,Southern Europe,problemas significativos,21500
+2019,Brasil,BRA,67.21,105,Latin America & Caribbean,South America,problemas significativos,14800
+2019,Nepal,NPL,66.6,106,South Asia,Southern Asia,problemas significativos,3950
+2019,Guinea,GIN,66.51,107,Sub-Saharan Africa,Western Africa,problemas significativos,2570
+2019,Kuwait,KWT,66.14,108,Middle East & North Africa,Western Asia,problemas significativos,49900
+2019,Angola,AGO,65.04,109,Sub-Saharan Africa,Middle Africa,problemas significativos,6670
+2019,Etiopía,ETH,64.89,110,Sub-Saharan Africa,Eastern Africa,situación difícil,2220
+2019,Bulgaria,BGR,64.89,111,Europe & Central Asia,Eastern Europe,situación difícil,23300
+2019,Malí,MLI,64.77,112,Sub-Saharan Africa,Western Africa,situación difícil,2320
+2019,Bolivia,BOL,64.62,113,Latin America & Caribbean,South America,situación difícil,8720
+2019,Nicaragua,NIC,64.47,114,Latin America & Caribbean,Central America,situación difícil,5450
+2019,República Gabonesa,GAB,64.4,115,Sub-Saharan Africa,Middle Africa,situación difícil,14900
+2019,Guatemala,GTM,64.06,116,Latin America & Caribbean,Central America,situación difícil,8650
+2019,República del Congo,COG,63.96,117,Sub-Saharan Africa,Middle Africa,situación difícil,3830
+2019,Tanzania,TZA,63.72,118,Sub-Saharan Africa,Eastern Africa,situación difícil,2660
+2019,Zambia,ZMB,63.62,119,Sub-Saharan Africa,Eastern Africa,situación difícil,3470
+2019,Nigeria,NGA,63.5,120,Sub-Saharan Africa,Western Africa,situación difícil,5140
+2019,Afganistán,AFG,63.45,121,South Asia,Southern Asia,situación difícil,2070
+2019,Chad,TCD,63.29,122,Sub-Saharan Africa,Middle Africa,situación difícil,1580
+2019,Malasia,MYS,63.26,123,East Asia & Pacific,South-Eastern Asia,situación difícil,28400
+2019,Indonesia,IDN,63.23,124,East Asia & Pacific,South-Eastern Asia,situación difícil,11800
+2019,Uganda,UGA,60.58,125,Sub-Saharan Africa,Eastern Africa,situación difícil,2180
+2019,Sri Lanka,LKA,60.39,126,South Asia,Southern Asia,situación difícil,13100
+2019,Zimbabue,ZWE,57.77,127,Sub-Saharan Africa,Eastern Africa,situación difícil,3630
+2019,Catar,QAT,57.49,128,Middle East & North Africa,Western Asia,situación difícil,90000
+2019,Colombia,COL,57.18,129,Latin America & Caribbean,South America,situación difícil,14600
+2019,Jordania,JOR,56.89,130,Middle East & North Africa,Western Asia,situación difícil,10100
+2019,Camerún,CMR,56.68,131,Sub-Saharan Africa,Middle Africa,situación difícil,3740
+2019,Omán,OMN,56.58,132,Middle East & North Africa,Western Asia,situación difícil,31300
+2019,Emiratos Árabes Unidos,ARE,56.37,133,Middle East & North Africa,Western Asia,situación difícil,68300
+2019,Filipinas,PHL,56.09,134,East Asia & Pacific,South-Eastern Asia,situación difícil,8920
+2019,Marruecos,MAR,56.02,135,Middle East & North Africa,Northern Africa,situación difícil,7550
+2019,Tailandia,THA,55.9,136,East Asia & Pacific,South-Eastern Asia,situación difícil,18500
+2019,Palestina,PSE,55.32,137,Middle East & North Africa,Western Asia,situación difícil,6250
+2019,Birmania,MMR,55.08,138,East Asia & Pacific,South-Eastern Asia,situación difícil,4740
+2019,Sudán del Sur,SSD,54.35,139,Sub-Saharan Africa,Northern Africa,situación difícil,1960
+2019,India,IND,54.33,140,South Asia,Southern Asia,situación difícil,6710
+2019,Argelia,DZA,54.25,141,Middle East & North Africa,Northern Africa,situación difícil,11500
+2019,Pakistán,PAK,54.17,142,South Asia,Southern Asia,situación difícil,4700
+2019,Camboya,KHM,54.1,143,East Asia & Pacific,South-Eastern Asia,situación difícil,4390
+2019,México,MEX,53.22,144,Latin America & Caribbean,Central America,situación difícil,19700
+2019,República Centroafricana,CAF,52.73,145,Sub-Saharan Africa,Middle Africa,situación difícil,945
+2019,Honduras,HND,51.47,146,Latin America & Caribbean,Central America,situación difícil,5740
+2019,Esuatini,SWZ,50.91,147,Sub-Saharan Africa,Southern Africa,situación difícil,8650
+2019,Venezuela,VEN,50.9,148,Latin America & Caribbean,South America,situación difícil,8410
+2019,Rusia,RUS,49.69,149,Europe & Central Asia,Eastern Europe,situación difícil,27200
+2019,Bangladés,BGD,49.26,150,South Asia,Southern Asia,situación difícil,4750
+2019,Singapur,SGP,48.59,151,East Asia & Pacific,South-Eastern Asia,situación difícil,98400
+2019,Brunéi,BRN,48.52,152,East Asia & Pacific,South-Eastern Asia,situación difícil,62100
+2019,Belarús,BLR,48.34,153,Europe & Central Asia,Eastern Europe,situación difícil,19300
+2019,RD Congo,COD,48.29,154,Sub-Saharan Africa,Middle Africa,situación difícil,1100
+2019,Ruanda,RWA,47.57,155,Sub-Saharan Africa,Eastern Africa,situación difícil,2230
+2019,Irak,IRQ,47.4,156,Middle East & North Africa,Western Asia,situación difícil,10900
+2019,Turquía,TUR,47.19,157,Europe & Central Asia,Western Asia,situación difícil,28200
+2019,Kazajistán,KAZ,47.18,158,Europe & Central Asia,Central Asia,situación difícil,26400
+2019,Burundi,BDI,47.11,159,Sub-Saharan Africa,Eastern Africa,situación difícil,752
+2019,Uzbekistán,UZB,46.48,160,Europe & Central Asia,Central Asia,situación difícil,7350
+2019,Tayikistán,TJK,45.98,161,Europe & Central Asia,Central Asia,situación difícil,3580
+2019,Libia,LBY,44.23,162,Middle East & North Africa,Northern Africa,situación muy grave,15200
+2019,Egipto,EGY,43.53,163,Middle East & North Africa,Northern Africa,situación muy grave,11800
+2019,Somalia,SOM,42.76,164,Sub-Saharan Africa,Eastern Africa,situación muy grave,1190
+2019,Guinea Ecuatorial,GNQ,41.65,165,Sub-Saharan Africa,Middle Africa,situación muy grave,18500
+2019,Azerbaiyán,AZE,40.87,166,Europe & Central Asia,Western Asia,situación muy grave,14400
+2019,Baréin,BHR,38.69,167,Middle East & North Africa,Western Asia,situación muy grave,45300
+2019,Yemen,YEM,38.34,168,Middle East & North Africa,Western Asia,situación muy grave,2630
+2019,Cuba,CUB,36.19,169,Latin America & Caribbean,Caribbean,situación muy grave,9890
+2019,Irán,IRN,35.59,170,Middle East & North Africa,Southern Asia,situación muy grave,12400
+2019,Laos,LAO,35.51,171,East Asia & Pacific,South-Eastern Asia,situación muy grave,7890
+2019,Arabia Saudita,SAU,34.12,172,Middle East & North Africa,Western Asia,situación muy grave,47000
+2019,Yibuti,DJI,28.64,173,Middle East & North Africa,Eastern Africa,situación muy grave,5540
+2019,Siria,SYR,28.22,174,Middle East & North Africa,Western Asia,situación muy grave,3850
+2019,Sudán,SDN,27.55,175,Sub-Saharan Africa,Northern Africa,situación muy grave,4170
+2019,Vietnam,VNM,25.07,176,East Asia & Pacific,South-Eastern Asia,situación muy grave,8040
+2019,China,CHN,21.08,177,East Asia & Pacific,Eastern Asia,situación muy grave,16000
+2019,Eritrea,ERI,19.74,178,Sub-Saharan Africa,Eastern Africa,situación muy grave,1590
+2019,Corea del Norte,PRK,16.6,179,East Asia & Pacific,Eastern Asia,situación muy grave,1800
+2019,Turkmenistán,TKM,14.56,180,Europe & Central Asia,Central Asia,situación muy grave,15500
+2020,Noruega,NOR,92.16,1,Europe & Central Asia,Northern Europe,buena situación,63600
+2020,Finlandia,FIN,92.07,2,Europe & Central Asia,Northern Europe,buena situación,47400
+2020,Dinamarca,DNK,91.87,3,Europe & Central Asia,Northern Europe,buena situación,55800
+2020,Suecia,SWE,90.75,4,Europe & Central Asia,Northern Europe,buena situación,51000
+2020,Países Bajos,NLD,90.04,5,Europe & Central Asia,Western Europe,buena situación,54200
+2020,Jamaica,JAM,89.49,6,Latin America & Caribbean,Caribbean,buena situación,8790
+2020,Costa Rica,CRI,89.47,7,Latin America & Caribbean,Central America,buena situación,19900
+2020,Suiza,CHE,89.38,8,Europe & Central Asia,Western Europe,buena situación,68700
+2020,Nueva Zelanda,NZL,89.31,9,East Asia & Pacific,Australia and New Zealand,buena situación,41200
+2020,Portugal,PRT,88.17,10,Europe & Central Asia,Southern Europe,buena situación,32000
+2020,Alemania,DEU,87.84,11,Europe & Central Asia,Western Europe,buena situación,51400
+2020,Bélgica,BEL,87.43,12,Europe & Central Asia,Western Europe,buena situación,48700
+2020,Irlanda,IRL,87.4,13,Europe & Central Asia,Northern Europe,buena situación,90900
+2020,Estonia,EST,87.39,14,Europe & Central Asia,Northern Europe,buena situación,35300
+2020,Islandia,ISL,84.88,15,Europe & Central Asia,Northern Europe,situación más bien buena,51900
+2020,Canadá,CAN,84.71,16,North America,Northern America,situación más bien buena,46000
+2020,Luxemburgo,LUX,84.54,17,Europe & Central Asia,Western Europe,situación más bien buena,112000
+2020,Austria,AUT,84.22,18,Europe & Central Asia,Western Europe,situación más bien buena,51800
+2020,Uruguay,URY,84.21,19,Latin America & Caribbean,South America,situación más bien buena,21500
+2020,Surinam,SUR,82.5,20,Latin America & Caribbean,South America,situación más bien buena,15900
+2020,Samoa,WSM,81.75,21,East Asia & Pacific,Polynesia,situación más bien buena,6420
+2020,Letonia,LVA,81.44,22,Europe & Central Asia,Northern Europe,situación más bien buena,30000
+2020,Namibia,"NAM",80.75,23,Sub-Saharan Africa,Southern Africa,situación más bien buena,8820
+2020,Liechtenstein,LIE,80.48,24,Europe & Central Asia,Western Europe,situación más bien buena,NA
+2020,Cabo Verde,CPV,79.85,25,Sub-Saharan Africa,Western Africa,situación más bien buena,6040
+2020,Australia,AUS,79.79,26,East Asia & Pacific,Australia and New Zealand,situación más bien buena,48000
+2020,Chipre,CYP,79.55,27,Europe & Central Asia,Western Asia,situación más bien buena,38900
+2020,Lituania,LTU,78.81,28,Europe & Central Asia,Northern Europe,situación más bien buena,37100
+2020,España,ESP,77.84,29,Europe & Central Asia,Southern Europe,situación más bien buena,36200
+2020,Ghana,GHA,77.74,30,Sub-Saharan Africa,Western Africa,situación más bien buena,5450
+2020,Sudáfrica,ZAF,77.59,31,Sub-Saharan Africa,Southern Africa,situación más bien buena,12600
+2020,Eslovenia,SVN,77.36,32,Europe & Central Asia,Southern Europe,situación más bien buena,37000
+2020,Eslovaquia,SVK,77.33,33,Europe & Central Asia,Eastern Europe,situación más bien buena,30500
+2020,Francia,FRA,77.08,34,Europe & Central Asia,Western Europe,situación más bien buena,42200
+2020,Reino Unido,GBR,77.07,35,Europe & Central Asia,Northern Europe,situación más bien buena,42800
+2020,Trinidad y Tobago,TTO,76.78,36,Latin America & Caribbean,Caribbean,situación más bien buena,23800
+2020,Andorra,AND,76.77,37,Europe & Central Asia,Southern Europe,situación más bien buena,51600
+2020,Burkina Faso,BFA,76.53,38,Sub-Saharan Africa,Western Africa,situación más bien buena,2160
+2020,Botsuana,BWA,76.44,39,Sub-Saharan Africa,Southern Africa,situación más bien buena,14600
+2020,República Checa,CZE,76.43,40,Europe & Central Asia,Eastern Europe,situación más bien buena,38400
+2020,Italia,ITA,76.31,41,Europe & Central Asia,Southern Europe,situación más bien buena,39000
+2020,Corea del Sur,KOR,76.3,42,East Asia & Pacific,Eastern Asia,situación más bien buena,42300
+2020,Taiwán,TWN,76.24,43,East Asia & Pacific,Eastern Asia,situación más bien buena,55400
+2020,OECS,XCD,76.22,44,NA,NA,situación más bien buena,NA
+2020,Estados Unidos,USA,76.15,45,North America,Northern America,situación más bien buena,60000
+2020,Papúa Nueva Guinea,PNG,76.07,46,East Asia & Pacific,Melanesia,situación más bien buena,4060
+2020,Senegal,SEN,76.01,47,Sub-Saharan Africa,Western Africa,situación más bien buena,3320
+2020,Rumania,ROU,74.09,48,Europe & Central Asia,Eastern Europe,problemas significativos,28900
+2020,Guyana,GUY,73.37,49,Latin America & Caribbean,South America,problemas significativos,13600
+2020,Tonga,TON,72.73,50,East Asia & Pacific,Polynesia,problemas significativos,6430
+2020,Chile,CHL,72.69,51,Latin America & Caribbean,South America,problemas significativos,23000
+2020,Fiyi,FJI,72.59,52,East Asia & Pacific,Melanesia,problemas significativos,11500
+2020,Belice,BLZ,72.5,53,Latin America & Caribbean,Central America,problemas significativos,5880
+2020,Madagascar,MDG,72.32,54,Sub-Saharan Africa,Eastern Africa,problemas significativos,1450
+2020,República Dominicana,DOM,72.1,55,Latin America & Caribbean,Caribbean,problemas significativos,17000
+2020,Mauricio,MUS,72,56,Sub-Saharan Africa,Eastern Africa,problemas significativos,19500
+2020,Niger,NER,71.75,57,Sub-Saharan Africa,Western Africa,problemas significativos,1220
+2020,Bosnia-Herzegovina,BIH,71.49,58,Europe & Central Asia,Southern Europe,problemas significativos,14400
+2020,Croacia,HRV,71.49,59,Europe & Central Asia,Southern Europe,problemas significativos,27100
+2020,Georgia,GEO,71.41,60,Europe & Central Asia,Western Asia,problemas significativos,14000
+2020,Armenia,ARM,71.4,61,Europe & Central Asia,Western Asia,problemas significativos,12600
+2020,Polonia,POL,71.35,62,Europe & Central Asia,Eastern Europe,problemas significativos,32400
+2020,Seychelles,SYC,71.34,63,Sub-Saharan Africa,Eastern Africa,problemas significativos,25300
+2020,Argentina,ARG,71.22,64,Latin America & Caribbean,South America,problemas significativos,19700
+2020,Grecia,GRC,71.2,65,Europe & Central Asia,Southern Europe,problemas significativos,27000
+2020,Japón,JPN,71.14,66,East Asia & Pacific,Eastern Asia,problemas significativos,40300
+2020,Bután,BTN,71.1,67,South Asia,Southern Asia,problemas significativos,11500
+2020,Costa de Marfil,CIV,71.06,68,Sub-Saharan Africa,Western Africa,problemas significativos,5180
+2020,Malaui,MWI,70.68,69,Sub-Saharan Africa,Eastern Africa,problemas significativos,1510
+2020,Kosovo,XKO,70.67,70,NA,NA,problemas significativos,NA
+2020,Togo,TGO,70.67,71,Sub-Saharan Africa,Western Africa,problemas significativos,2110
+2020,Túnez,TUN,70.55,72,Middle East & North Africa,Northern Africa,problemas significativos,10200
+2020,Mongolia,MNG,70.39,73,East Asia & Pacific,Eastern Asia,problemas significativos,11700
+2020,El Salvador,SLV,70.3,74,Latin America & Caribbean,Central America,problemas significativos,8040
+2020,Comoras,COM,70.23,75,Sub-Saharan Africa,Eastern Africa,problemas significativos,2970
+2020,Panamá,PAN,70.22,76,Latin America & Caribbean,Central America,problemas significativos,25400
+2020,Chipre Norte,CTU,70.21,77,NA,NA,problemas significativos,NA
+2020,Timor Oriental,TLS,70.1,78,East Asia & Pacific,South-Eastern Asia,problemas significativos,3960
+2020,Maldivas,MDV,70.07,79,South Asia,Southern Asia,problemas significativos,12800
+2020,Hong Kong,HKG,69.99,80,East Asia & Pacific,Eastern Asia,problemas significativos,56400
+2020,Malta,MLT,69.84,81,Middle East & North Africa,Southern Europe,problemas significativos,38600
+2020,Kirguistán,KGZ,69.81,82,Europe & Central Asia,Central Asia,problemas significativos,4710
+2020,Haití,HTI,69.8,83,Latin America & Caribbean,Caribbean,problemas significativos,2930
+2020,Albania,ALB,69.75,84,Europe & Central Asia,Southern Europe,problemas significativos,13200
+2020,Sierra Leona,SLE,69.72,85,Sub-Saharan Africa,Western Africa,problemas significativos,1640
+2020,Lesoto,LSO,69.55,86,Sub-Saharan Africa,Southern Africa,problemas significativos,2410
+2020,Gambia,GMB,69.38,87,Sub-Saharan Africa,Western Africa,problemas significativos,2160
+2020,Hungría,HUN,69.16,89,Europe & Central Asia,Eastern Europe,problemas significativos,31000
+2020,Israel,ISR,69.16,88,Middle East & North Africa,Western Asia,problemas significativos,39000
+2020,Peru,PER,69.06,90,Latin America & Caribbean,South America,problemas significativos,11300
+2020,Moldavia,MDA,68.84,91,Europe & Central Asia,Eastern Europe,problemas significativos,12200
+2020,República de Macedonia del Norte,MKD,68.72,92,Europe & Central Asia,Southern Europe,problemas significativos,15800
+2020,Serbia,SRB,68.38,93,Europe & Central Asia,Southern Europe,problemas significativos,18200
+2020,Guinea-Bisáu,GNB,67.94,94,Sub-Saharan Africa,Western Africa,problemas significativos,1930
+2020,Liberia,LBR,67.75,95,Sub-Saharan Africa,Western Africa,problemas significativos,1390
+2020,Ucrania,UKR,67.48,96,Europe & Central Asia,Eastern Europe,problemas significativos,12400
+2020,Mauritania,MRT,67.46,97,Sub-Saharan Africa,Western Africa,problemas significativos,5140
+2020,Ecuador,ECU,67.38,98,Latin America & Caribbean,South America,problemas significativos,10300
+2020,Etiopía,ETH,67.18,99,Sub-Saharan Africa,Eastern Africa,problemas significativos,2320
+2020,Paraguay,PRY,67.03,100,Latin America & Caribbean,South America,problemas significativos,12300
+2020,Malasia,MYS,66.88,101,East Asia & Pacific,South-Eastern Asia,problemas significativos,26800
+2020,Líbano,LBN,66.81,102,Middle East & North Africa,Western Asia,problemas significativos,11400
+2020,Kenia,KEN,66.28,103,Sub-Saharan Africa,Eastern Africa,problemas significativos,4340
+2020,Mozambique,MOZ,66.21,104,Sub-Saharan Africa,Eastern Africa,problemas significativos,1230
+2020,Montenegro,MNE,66.17,105,Europe & Central Asia,Southern Europe,problemas significativos,18300
+2020,Angola,AGO,66.08,106,Sub-Saharan Africa,Middle Africa,problemas significativos,6120
+2020,Brasil,BRA,65.95,107,Latin America & Caribbean,South America,problemas significativos,14100
+2020,Malí,MLI,65.88,108,Sub-Saharan Africa,Western Africa,problemas significativos,2230
+2020,Kuwait,KWT,65.7,109,Middle East & North Africa,Western Asia,problemas significativos,46500
+2020,Guinea,GIN,65.66,110,Sub-Saharan Africa,Western Africa,problemas significativos,2660
+2020,Bulgaria,BGR,64.94,111,Europe & Central Asia,Eastern Europe,situación difícil,22400
+2020,Nepal,NPL,64.9,112,South Asia,Southern Asia,situación difícil,3800
+2020,Benín,BEN,64.89,113,Sub-Saharan Africa,Western Africa,situación difícil,3320
+2020,Bolivia,BOL,64.63,114,Latin America & Caribbean,South America,situación difícil,7850
+2020,Nigeria,NGA,64.37,115,Sub-Saharan Africa,Western Africa,situación difícil,4920
+2020,Guatemala,GTM,64.26,116,Latin America & Caribbean,Central America,situación difícil,8350
+2020,Nicaragua,NIC,64.19,117,Latin America & Caribbean,Central America,situación difícil,5370
+2020,República del Congo,COG,63.44,118,Sub-Saharan Africa,Middle Africa,situación difícil,3430
+2020,Indonesia,IDN,63.18,119,East Asia & Pacific,South-Eastern Asia,situación difícil,11400
+2020,Zambia,ZMB,63,120,Sub-Saharan Africa,Eastern Africa,situación difícil,3270
+2020,República Gabonesa,GAB,62.8,121,Sub-Saharan Africa,Middle Africa,situación difícil,14500
+2020,Afganistán,AFG,62.3,122,South Asia,Southern Asia,situación difícil,1970
+2020,Chad,TCD,60.3,123,Sub-Saharan Africa,Middle Africa,situación difícil,1500
+2020,Tanzania,TZA,59.75,124,Sub-Saharan Africa,Eastern Africa,situación difícil,2710
+2020,Uganda,UGA,59.05,125,Sub-Saharan Africa,Eastern Africa,situación difícil,2080
+2020,Zimbabue,ZWE,59.05,126,Sub-Saharan Africa,Eastern Africa,situación difícil,3370
+2020,Sri Lanka,LKA,58.06,127,South Asia,Southern Asia,situación difícil,12500
+2020,Jordania,JOR,57.92,128,Middle East & North Africa,Western Asia,situación difícil,9820
+2020,Catar,QAT,57.49,129,Middle East & North Africa,Western Asia,situación difícil,90500
+2020,Colombia,COL,57.34,130,Latin America & Caribbean,South America,situación difícil,13300
+2020,Emiratos Árabes Unidos,ARE,57.31,131,Middle East & North Africa,Western Asia,situación difícil,65600
+2020,República Centroafricana,CAF,57.13,132,Sub-Saharan Africa,Middle Africa,situación difícil,937
+2020,Marruecos,MAR,57.12,133,Middle East & North Africa,Northern Africa,situación difícil,7000
+2020,Camerún,CMR,56.72,134,Sub-Saharan Africa,Middle Africa,situación difícil,3670
+2020,Omán,OMN,56.58,135,Middle East & North Africa,Western Asia,situación difícil,31600
+2020,Filipinas,PHL,56.46,136,East Asia & Pacific,South-Eastern Asia,situación difícil,7950
+2020,Palestina,PSE,55.91,137,Middle East & North Africa,Western Asia,situación difícil,5400
+2020,Sudán del Sur,SSD,55.51,138,Sub-Saharan Africa,Northern Africa,situación difícil,1780
+2020,Birmania,MMR,55.23,139,East Asia & Pacific,South-Eastern Asia,situación difícil,4860
+2020,Tailandia,THA,55.06,140,East Asia & Pacific,South-Eastern Asia,situación difícil,17300
+2020,Esuatini,SWZ,54.85,141,Sub-Saharan Africa,Southern Africa,situación difícil,8400
+2020,India,IND,54.67,142,South Asia,Southern Asia,situación difícil,6220
+2020,México,MEX,54.55,143,Latin America & Caribbean,Central America,situación difícil,17900
+2020,Camboya,KHM,54.54,144,East Asia & Pacific,South-Eastern Asia,situación difícil,4230
+2020,Argelia,DZA,54.48,146,Middle East & North Africa,Northern Africa,situación difícil,10900
+2020,Pakistán,PAK,54.48,145,South Asia,Southern Asia,situación difícil,4560
+2020,Venezuela,VEN,54.34,147,Latin America & Caribbean,South America,situación difícil,5860
+2020,Honduras,HND,51.8,148,Latin America & Caribbean,Central America,situación difícil,5130
+2020,Rusia,RUS,51.08,149,Europe & Central Asia,Eastern Europe,situación difícil,26600
+2020,RD Congo,COD,50.91,150,Sub-Saharan Africa,Middle Africa,situación difícil,1080
+2020,Bangladés,BGD,50.63,151,South Asia,Southern Asia,situación difícil,4660
+2020,Brunéi,BRN,50.35,152,East Asia & Pacific,South-Eastern Asia,situación difícil,62600
+2020,Belarús,BLR,50.25,153,Europe & Central Asia,Eastern Europe,situación difícil,19200
+2020,Turquía,TUR,49.98,154,Europe & Central Asia,Western Asia,situación difícil,28500
+2020,Ruanda,RWA,49.66,155,Sub-Saharan Africa,Eastern Africa,situación difícil,2110
+2020,Uzbekistán,UZB,46.93,156,Europe & Central Asia,Central Asia,situación difícil,7340
+2020,Kazajistán,KAZ,45.89,157,Europe & Central Asia,Central Asia,situación difícil,25300
+2020,Singapur,SGP,44.77,158,East Asia & Pacific,South-Eastern Asia,situación muy grave,94600
+2020,Burundi,BDI,44.67,160,Sub-Saharan Africa,Eastern Africa,situación muy grave,732
+2020,Sudán,SDN,44.67,159,Sub-Saharan Africa,Northern Africa,situación muy grave,3920
+2020,Tayikistán,TJK,44.66,161,Europe & Central Asia,Central Asia,situación muy grave,3670
+2020,Irak,IRQ,44.63,162,Middle East & North Africa,Western Asia,situación muy grave,8990
+2020,Somalia,SOM,44.55,163,Sub-Saharan Africa,Eastern Africa,situación muy grave,1150
+2020,Libia,LBY,44.23,164,Middle East & North Africa,Northern Africa,situación muy grave,6050
+2020,Guinea Ecuatorial,GNQ,43.62,165,Sub-Saharan Africa,Middle Africa,situación muy grave,17000
+2020,Egipto,EGY,43.18,166,Middle East & North Africa,Northern Africa,situación muy grave,12000
+2020,Yemen,YEM,41.75,167,Middle East & North Africa,Western Asia,situación muy grave,2360
+2020,Azerbaiyán,AZE,41.52,168,Europe & Central Asia,Western Asia,situación muy grave,13700
+2020,Baréin,BHR,39.87,169,Middle East & North Africa,Western Asia,situación muy grave,43400
+2020,Arabia Saudita,SAU,37.86,170,Middle East & North Africa,Western Asia,situación muy grave,44000
+2020,Cuba,CUB,36.19,171,Latin America & Caribbean,Caribbean,situación muy grave,10100
+2020,Laos,LAO,35.72,172,East Asia & Pacific,South-Eastern Asia,situación muy grave,7740
+2020,Irán,IRN,35.19,173,Middle East & North Africa,Southern Asia,situación muy grave,12500
+2020,Siria,SYR,27.43,174,Middle East & North Africa,Western Asia,situación muy grave,3940
+2020,Vietnam,VNM,25.29,175,East Asia & Pacific,South-Eastern Asia,situación muy grave,8200
+2020,Yibuti,DJI,23.27,176,Middle East & North Africa,Eastern Africa,situación muy grave,5510
+2020,China,CHN,21.52,177,East Asia & Pacific,Eastern Asia,situación muy grave,16300
+2020,Eritrea,ERI,16.5,178,Sub-Saharan Africa,Eastern Africa,situación muy grave,1560
+2020,Turkmenistán,TKM,14.56,179,Europe & Central Asia,Central Asia,situación muy grave,14800
+2020,Corea del Norte,PRK,14.18,180,East Asia & Pacific,Eastern Asia,situación muy grave,1750
+2021,Noruega,NOR,93.28,1,Europe & Central Asia,Northern Europe,buena situación,65700
+2021,Finlandia,FIN,93.01,2,Europe & Central Asia,Northern Europe,buena situación,48900
+2021,Suecia,SWE,92.76,3,Europe & Central Asia,Northern Europe,buena situación,53100
+2021,Dinamarca,DNK,91.43,4,Europe & Central Asia,Northern Europe,buena situación,58000
+2021,Costa Rica,CRI,91.24,5,Latin America & Caribbean,Central America,buena situación,21200
+2021,Países Bajos,NLD,90.33,6,Europe & Central Asia,Western Europe,buena situación,56700
+2021,Jamaica,JAM,90.04,7,Latin America & Caribbean,Caribbean,buena situación,9160
+2021,Nueva Zelanda,NZL,89.96,8,East Asia & Pacific,Australia and New Zealand,buena situación,43200
+2021,Portugal,PRT,89.89,9,Europe & Central Asia,Southern Europe,buena situación,33500
+2021,Suiza,CHE,89.45,10,Europe & Central Asia,Western Europe,buena situación,70700
+2021,Bélgica,BEL,88.31,11,Europe & Central Asia,Western Europe,buena situación,51600
+2021,Irlanda,IRL,88.09,12,Europe & Central Asia,Northern Europe,buena situación,102000
+2021,Alemania,DEU,84.76,13,Europe & Central Asia,Western Europe,situación más bien buena,52800
+2021,Canadá,CAN,84.75,14,North America,Northern America,situación más bien buena,47900
+2021,Estonia,EST,84.75,15,Europe & Central Asia,Northern Europe,situación más bien buena,38200
+2021,Islandia,ISL,84.63,16,Europe & Central Asia,Northern Europe,situación más bien buena,53400
+2021,Austria,AUT,83.66,17,Europe & Central Asia,Western Europe,situación más bien buena,53900
+2021,Uruguay,URY,83.62,18,Latin America & Caribbean,South America,situación más bien buena,22400
+2021,Surinam,SUR,83.05,19,Latin America & Caribbean,South America,situación más bien buena,15100
+2021,Luxemburgo,LUX,82.44,20,Europe & Central Asia,Western Europe,situación más bien buena,118000
+2021,Samoa,WSM,80.76,21,East Asia & Pacific,Polynesia,situación más bien buena,5860
+2021,Letonia,LVA,80.74,22,Europe & Central Asia,Northern Europe,situación más bien buena,31700
+2021,Liechtenstein,LIE,80.51,23,Europe & Central Asia,Western Europe,situación más bien buena,NA
+2021,Namibia,"NAM",80.28,24,Sub-Saharan Africa,Southern Africa,situación más bien buena,8740
+2021,Australia,AUS,80.21,25,East Asia & Pacific,Australia and New Zealand,situación más bien buena,50200
+2021,Chipre,CYP,80.15,26,Europe & Central Asia,Western Asia,situación más bien buena,40700
+2021,Cabo Verde,CPV,79.91,27,Sub-Saharan Africa,Western Africa,situación más bien buena,6380
+2021,Lituania,LTU,79.85,28,Europe & Central Asia,Northern Europe,situación más bien buena,39000
+2021,España,ESP,79.56,29,Europe & Central Asia,Southern Europe,situación más bien buena,38000
+2021,Ghana,GHA,78.67,30,Sub-Saharan Africa,Western Africa,situación más bien buena,5590
+2021,Trinidad y Tobago,TTO,78.45,31,Latin America & Caribbean,Caribbean,situación más bien buena,23500
+2021,Reino Unido,GBR,78.41,33,Europe & Central Asia,Northern Europe,situación más bien buena,45700
+2021,Sudáfrica,ZAF,78.41,32,Sub-Saharan Africa,Southern Africa,situación más bien buena,13200
+2021,Francia,FRA,77.4,34,Europe & Central Asia,Western Europe,situación más bien buena,45100
+2021,Eslovaquia,SVK,76.98,35,Europe & Central Asia,Eastern Europe,situación más bien buena,31400
+2021,Eslovenia,SVN,76.9,36,Europe & Central Asia,Southern Europe,situación más bien buena,39800
+2021,Burkina Faso,BFA,76.83,37,Sub-Saharan Africa,Western Africa,situación más bien buena,2240
+2021,Botsuana,BWA,76.75,38,Sub-Saharan Africa,Southern Africa,situación más bien buena,16100.000000000002
+2021,Andorra,AND,76.68,39,Europe & Central Asia,Southern Europe,situación más bien buena,55100
+2021,República Checa,CZE,76.62,40,Europe & Central Asia,Eastern Europe,situación más bien buena,39700
+2021,Italia,ITA,76.61,41,Europe & Central Asia,Southern Europe,situación más bien buena,41800
+2021,Corea del Sur,KOR,76.57,42,East Asia & Pacific,Eastern Asia,situación más bien buena,44100
+2021,Taiwán,TWN,76.14,43,East Asia & Pacific,Eastern Asia,situación más bien buena,59300
+2021,Estados Unidos,USA,76.07,44,North America,Northern America,situación más bien buena,63200
+2021,OECS,XCD,76.02,45,NA,NA,situación más bien buena,NA
+2021,Tonga,TON,75.41,46,East Asia & Pacific,Polynesia,situación más bien buena,6390
+2021,Papúa Nueva Guinea,PNG,75.12,47,East Asia & Pacific,Melanesia,situación más bien buena,4040
+2021,Rumania,ROU,75.09,48,Europe & Central Asia,Eastern Europe,situación más bien buena,30600
+2021,Senegal,SEN,74.78,49,Sub-Saharan Africa,Western Africa,problemas significativos,3420
+2021,República Dominicana,DOM,74.4,50,Latin America & Caribbean,Caribbean,problemas significativos,18900
+2021,Guyana,GUY,74.39,51,Latin America & Caribbean,South America,problemas significativos,14100
+2021,Seychelles,SYC,74.34,52,Sub-Saharan Africa,Eastern Africa,problemas significativos,27000
+2021,Belice,BLZ,72.39,53,Latin America & Caribbean,Central America,problemas significativos,6290
+2021,Chile,CHL,72.11,54,Latin America & Caribbean,South America,problemas significativos,25400
+2021,Fiyi,FJI,72.08,55,East Asia & Pacific,Melanesia,problemas significativos,11000
+2021,Croacia,HRV,72.05,56,Europe & Central Asia,Southern Europe,problemas significativos,30000
+2021,Madagascar,MDG,71.76,57,Sub-Saharan Africa,Eastern Africa,problemas significativos,1520
+2021,Bosnia-Herzegovina,BIH,71.66,58,Europe & Central Asia,Southern Europe,problemas significativos,15300
+2021,Niger,NER,71.56,59,Sub-Saharan Africa,Western Africa,problemas significativos,1190
+2021,Georgia,GEO,71.36,60,Europe & Central Asia,Western Asia,problemas significativos,15400
+2021,Mauricio,MUS,71.26,61,Sub-Saharan Africa,Eastern Africa,problemas significativos,20200
+2021,Malaui,MWI,71.2,62,Sub-Saharan Africa,Eastern Africa,problemas significativos,1500
+2021,Armenia,ARM,71.17,63,Europe & Central Asia,Western Asia,problemas significativos,13400
+2021,Polonia,POL,71.16,64,Europe & Central Asia,Eastern Europe,problemas significativos,34300
+2021,Bután,BTN,71.14,65,South Asia,Southern Asia,problemas significativos,10900
+2021,Costa de Marfil,CIV,71.13,66,Sub-Saharan Africa,Western Africa,problemas significativos,5380
+2021,Japón,JPN,71.12,67,East Asia & Pacific,Eastern Asia,problemas significativos,41000
+2021,Mongolia,MNG,71.03,68,East Asia & Pacific,Eastern Asia,problemas significativos,11700
+2021,Argentina,ARG,71.01,69,Latin America & Caribbean,South America,problemas significativos,21500
+2021,Grecia,GRC,70.99,70,Europe & Central Asia,Southern Europe,problemas significativos,29400
+2021,Timor Oriental,TLS,70.89,71,East Asia & Pacific,South-Eastern Asia,problemas significativos,3690
+2021,Maldivas,MDV,70.87,72,South Asia,Southern Asia,problemas significativos,16700
+2021,Túnez,TUN,70.47,73,Middle East & North Africa,Northern Africa,problemas significativos,10500
+2021,Togo,TGO,70.41,74,Sub-Saharan Africa,Western Africa,problemas significativos,2160
+2021,Sierra Leona,SLE,70.39,75,Sub-Saharan Africa,Western Africa,problemas significativos,1660
+2021,Chipre Norte,CTU,70.18,76,NA,NA,problemas significativos,NA
+2021,Panamá,PAN,70.06,77,Latin America & Caribbean,Central America,problemas significativos,28900
+2021,Kosovo,XKO,69.68,78,NA,NA,problemas significativos,NA
+2021,Kirguistán,KGZ,69.63,79,Europe & Central Asia,Central Asia,problemas significativos,4790
+2021,Hong Kong,HKG,69.56,80,East Asia & Pacific,Eastern Asia,problemas significativos,60200
+2021,Malta,MLT,69.54,81,Middle East & North Africa,Southern Europe,problemas significativos,42100
+2021,El Salvador,SLV,69.51,82,Latin America & Caribbean,Central America,problemas significativos,8820
+2021,Albania,ALB,69.41,83,Europe & Central Asia,Southern Europe,problemas significativos,14300
+2021,Comoras,COM,69.35,84,Sub-Saharan Africa,Eastern Africa,problemas significativos,2960
+2021,Gambia,GMB,69.24,85,Sub-Saharan Africa,Western Africa,problemas significativos,2210
+2021,Israel,ISR,69.1,86,Middle East & North Africa,Western Asia,problemas significativos,41600
+2021,Haití,HTI,68.88,87,Latin America & Caribbean,Caribbean,problemas significativos,2840
+2021,Lesoto,LSO,68.39,88,Sub-Saharan Africa,Southern Africa,problemas significativos,2440
+2021,Moldavia,MDA,68.39,89,Europe & Central Asia,Eastern Europe,problemas significativos,14100
+2021,República de Macedonia del Norte,MKD,68.33,90,Europe & Central Asia,Southern Europe,problemas significativos,16400
+2021,Peru,PER,68.29,91,Latin America & Caribbean,South America,problemas significativos,12700
+2021,Hungría,HUN,68.24,92,Europe & Central Asia,Eastern Europe,problemas significativos,33400
+2021,Serbia,SRB,67.97,93,Europe & Central Asia,Southern Europe,problemas significativos,19700
+2021,Mauritania,MRT,67.75,94,Sub-Saharan Africa,Western Africa,problemas significativos,5170
+2021,Guinea-Bisáu,GNB,67.32,95,Sub-Saharan Africa,Western Africa,problemas significativos,1960
+2021,Ecuador,ECU,67.17,96,Latin America & Caribbean,South America,problemas significativos,10600
+2021,Ucrania,UKR,67.04,97,Europe & Central Asia,Eastern Europe,problemas significativos,12900
+2021,Liberia,LBR,66.64,98,Sub-Saharan Africa,Western Africa,problemas significativos,1410
+2021,Malí,MLI,66.5,99,Sub-Saharan Africa,Western Africa,problemas significativos,2230
+2021,Paraguay,PRY,66.48,100,Latin America & Caribbean,South America,problemas significativos,12700
+2021,Etiopía,ETH,66.37,101,Sub-Saharan Africa,Eastern Africa,problemas significativos,2400
+2021,Kenia,KEN,66.35,102,Sub-Saharan Africa,Eastern Africa,problemas significativos,4550
+2021,Angola,AGO,65.94,103,Sub-Saharan Africa,Middle Africa,problemas significativos,5980
+2021,Montenegro,MNE,65.67,104,Europe & Central Asia,Southern Europe,problemas significativos,20500
+2021,Kuwait,KWT,65.64,105,Middle East & North Africa,Western Asia,problemas significativos,46400
+2021,Nepal,NPL,65.38,106,South Asia,Southern Asia,problemas significativos,3830
+2021,Líbano,LBN,65.07,107,Middle East & North Africa,Western Asia,problemas significativos,10500
+2021,Mozambique,MOZ,64.61,108,Sub-Saharan Africa,Eastern Africa,situación difícil,1220
+2021,Guinea,GIN,64.58,109,Sub-Saharan Africa,Western Africa,situación difícil,2710
+2021,Bolivia,BOL,64.53,110,Latin America & Caribbean,South America,situación difícil,8210
+2021,Brasil,BRA,63.75,111,Latin America & Caribbean,South America,situación difícil,14700
+2021,Bulgaria,BGR,62.71,112,Europe & Central Asia,Eastern Europe,situación difícil,23400
+2021,Indonesia,IDN,62.6,113,East Asia & Pacific,South-Eastern Asia,situación difícil,11800
+2021,Benín,BEN,61.82,114,Sub-Saharan Africa,Western Africa,situación difícil,3440
+2021,Zambia,ZMB,61.79,115,Sub-Saharan Africa,Eastern Africa,situación difícil,3310
+2021,Guatemala,GTM,61.55,116,Latin America & Caribbean,Central America,situación difícil,8840
+2021,República Gabonesa,GAB,61.4,117,Sub-Saharan Africa,Middle Africa,situación difícil,14400
+2021,República del Congo,COG,61.17,118,Sub-Saharan Africa,Middle Africa,situación difícil,3340
+2021,Malasia,MYS,60.53,119,East Asia & Pacific,South-Eastern Asia,situación difícil,27500
+2021,Nigeria,NGA,60.31,120,Sub-Saharan Africa,Western Africa,situación difícil,4970
+2021,Nicaragua,NIC,60.02,121,Latin America & Caribbean,Central America,situación difícil,5880
+2021,Afganistán,AFG,59.81,122,South Asia,Southern Asia,situación difícil,1950
+2021,Chad,TCD,59.8,123,Sub-Saharan Africa,Middle Africa,situación difícil,1440
+2021,Tanzania,TZA,59.31,124,Sub-Saharan Africa,Eastern Africa,situación difícil,2760
+2021,Uganda,UGA,58.81,125,Sub-Saharan Africa,Eastern Africa,situación difícil,2120
+2021,República Centroafricana,CAF,58.08,126,Sub-Saharan Africa,Middle Africa,situación difícil,929
+2021,Sri Lanka,LKA,57.8,127,South Asia,Southern Asia,situación difícil,12900
+2021,Catar,QAT,57.4,128,Middle East & North Africa,Western Asia,situación difícil,94200
+2021,Jordania,JOR,57.11,129,Middle East & North Africa,Western Asia,situación difícil,9950
+2021,Zimbabue,ZWE,56.88,130,Sub-Saharan Africa,Eastern Africa,situación difícil,3520
+2021,Emiratos Árabes Unidos,ARE,56.87,131,Middle East & North Africa,Western Asia,situación difícil,65099.99999999999
+2021,Palestina,PSE,56.82,132,Middle East & North Africa,Western Asia,situación difícil,5590
+2021,Omán,OMN,56.63,133,Middle East & North Africa,Western Asia,situación difícil,31300
+2021,Colombia,COL,56.26,134,Latin America & Caribbean,South America,situación difícil,14500
+2021,Camerún,CMR,56.22,135,Sub-Saharan Africa,Middle Africa,situación difícil,3700
+2021,Marruecos,MAR,56.06,136,Middle East & North Africa,Northern Africa,situación difícil,7430
+2021,Tailandia,THA,54.78,137,East Asia & Pacific,South-Eastern Asia,situación difícil,17500
+2021,Filipinas,PHL,54.36,138,East Asia & Pacific,South-Eastern Asia,situación difícil,8290
+2021,Sudán del Sur,SSD,54.22,139,Sub-Saharan Africa,Northern Africa,situación difícil,1820
+2021,Birmania,MMR,53.86,140,East Asia & Pacific,South-Eastern Asia,situación difícil,3960
+2021,Esuatini,SWZ,53.66,141,Sub-Saharan Africa,Southern Africa,situación difícil,8580
+2021,India,IND,53.44,142,South Asia,Southern Asia,situación difícil,6710
+2021,México,MEX,53.29,143,Latin America & Caribbean,Central America,situación difícil,18600
+2021,Camboya,KHM,53.16,144,East Asia & Pacific,South-Eastern Asia,situación difícil,4280
+2021,Pakistán,PAK,53.14,145,South Asia,Southern Asia,situación difícil,4720
+2021,Argelia,DZA,52.74,146,Middle East & North Africa,Northern Africa,situación difícil,11100
+2021,Burundi,BDI,52.43,147,Sub-Saharan Africa,Eastern Africa,situación difícil,728
+2021,Venezuela,VEN,52.4,148,Latin America & Caribbean,South America,situación difícil,5340
+2021,RD Congo,COD,51.41,149,Sub-Saharan Africa,Middle Africa,situación difícil,1110
+2021,Rusia,RUS,51.29,150,Europe & Central Asia,Eastern Europe,situación difícil,27900
+2021,Honduras,HND,50.65,151,Latin America & Caribbean,Central America,situación difícil,5670
+2021,Bangladés,BGD,50.29,152,South Asia,Southern Asia,situación difícil,4990
+2021,Turquía,TUR,50.21,153,Europe & Central Asia,Western Asia,situación difícil,31300
+2021,Brunéi,BRN,50.09,154,East Asia & Pacific,South-Eastern Asia,situación difícil,62100
+2021,Kazajistán,KAZ,49.72,155,Europe & Central Asia,Central Asia,situación difícil,26000
+2021,Ruanda,RWA,49.34,156,Sub-Saharan Africa,Eastern Africa,situación difícil,2270
+2021,Uzbekistán,UZB,49.26,157,Europe & Central Asia,Central Asia,situación difícil,7740
+2021,Belarús,BLR,49.18,158,Europe & Central Asia,Eastern Europe,situación difícil,19800
+2021,Sudán,SDN,47.07,159,Sub-Saharan Africa,Northern Africa,situación difícil,3840
+2021,Singapur,SGP,44.8,160,East Asia & Pacific,South-Eastern Asia,situación muy grave,106000
+2021,Somalia,SOM,44.53,161,Sub-Saharan Africa,Eastern Africa,situación muy grave,1140
+2021,Tayikistán,TJK,44.48,162,Europe & Central Asia,Central Asia,situación muy grave,3930
+2021,Irak,IRQ,44.43,163,Middle East & North Africa,Western Asia,situación muy grave,9280
+2021,Guinea Ecuatorial,GNQ,44.33,164,Sub-Saharan Africa,Middle Africa,situación muy grave,15900
+2021,Libia,LBY,44.27,165,Middle East & North Africa,Northern Africa,situación muy grave,16600
+2021,Egipto,EGY,43.83,166,Middle East & North Africa,Northern Africa,situación muy grave,12100
+2021,Azerbaiyán,AZE,41.23,167,Europe & Central Asia,Western Asia,situación muy grave,14400
+2021,Baréin,BHR,38.9,168,Middle East & North Africa,Western Asia,situación muy grave,43900
+2021,Yemen,YEM,37.65,169,Middle East & North Africa,Western Asia,situación muy grave,2260
+2021,Arabia Saudita,SAU,37.27,170,Middle East & North Africa,Western Asia,situación muy grave,44900
+2021,Cuba,CUB,36.06,171,Latin America & Caribbean,Caribbean,situación muy grave,10300
+2021,Laos,LAO,29.44,172,East Asia & Pacific,South-Eastern Asia,situación muy grave,7790
+2021,Siria,SYR,29.37,173,Middle East & North Africa,Western Asia,situación muy grave,4030
+2021,Irán,IRN,27.3,174,Middle East & North Africa,Southern Asia,situación muy grave,12800
+2021,Vietnam,VNM,21.54,175,East Asia & Pacific,South-Eastern Asia,situación muy grave,8330
+2021,Yibuti,DJI,21.38,176,Middle East & North Africa,Eastern Africa,situación muy grave,5650
+2021,China,CHN,21.28,177,East Asia & Pacific,Eastern Asia,situación muy grave,17600
+2021,Turkmenistán,TKM,19.97,178,Europe & Central Asia,Central Asia,situación muy grave,15300
+2021,Corea del Norte,PRK,18.72,179,East Asia & Pacific,Eastern Asia,situación muy grave,1680
+2021,Eritrea,ERI,18.55,180,Sub-Saharan Africa,Eastern Africa,situación muy grave,1580
